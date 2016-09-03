@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Fuzzy Sabi
 description: > # this means to ignore newlines until "baseurl:"
 Fuzzy is a polymath with wide ranging interests including woodworking, blacksmithing,
 linux and single board computing, and amateur radio. He is a professional Spa Service
