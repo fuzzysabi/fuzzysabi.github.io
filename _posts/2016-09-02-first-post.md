@@ -1,6 +1,8 @@
 ---
+
 layout: post
 title: trying something new
+
 ---
 
 # trying something new
