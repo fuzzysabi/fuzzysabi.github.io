@@ -34,7 +34,7 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 90%;
   vertical-align: middle; }
 
 /**
@@ -95,14 +95,16 @@ code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #eef;
+  max-height: 200px}
 
 code {
   padding: 1px 5px; }
 
 pre {
   padding: 8px 12px;
-  overflow-x: auto; }
+  overflow-x: auto;
+  overflow-y: scroll;}
   pre > code {
     border: 0;
     padding-right: 0;
