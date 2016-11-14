@@ -35,6 +35,7 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 90%;
+  padding: 15px;
   vertical-align: middle; }
 
 /**
