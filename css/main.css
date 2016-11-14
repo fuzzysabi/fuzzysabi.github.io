@@ -35,7 +35,9 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 90%;
-  vertical-align: middle; }
+  vertical-align: middle; 
+  padding: 15px;
+}
 
 /**
  * Figures
@@ -103,6 +105,7 @@ code {
 
 pre {
   padding: 8px 12px;
+  max-height: 200px;
   overflow-x: auto;
   overflow-y: scroll;}
   pre > code {
