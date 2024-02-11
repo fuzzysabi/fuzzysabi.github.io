@@ -31,4 +31,4 @@ Ring Board
 Mickey stencil cake
 
 
-![Mickey cake](/pictures/mickeycake.jpg)
+![Mickey cake](/pictures/mickeycake180.jpg)
