@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: CV
 date: '2019-03-24 20:06:32'
-tags:
-- hash-import-2023-01-02-19-37
+permalink: /cv/
 ---
 
 # Jeremy "Fuzzy" Conley
