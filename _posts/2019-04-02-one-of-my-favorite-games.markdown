@@ -12,4 +12,5 @@ This one I made has the family crest on it, we must have been fisherfolk back in
 
 I've made about 4 of these boards now, and I really love this game. Unfortunately the rings have very few suppliers, but can be ordered from [Masters Traditional Games](http://www.mastersgames.com/) in the UK. The board below I made for my dad last year, and since it was hard to wrap I just put a little bow on it.
 
-<figure class=)
+![ringboard](/pictures/ringboard.jpg)
+![ringboard2](/pictures/ringboard2.jpg)
