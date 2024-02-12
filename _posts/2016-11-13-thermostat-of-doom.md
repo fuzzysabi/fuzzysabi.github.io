@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: 2016-11-13
 title: Thermostat of DOOM!
 ---
