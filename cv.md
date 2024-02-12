@@ -22,34 +22,34 @@ Innovative, skilled, and solution-oriented general engineer with a proven track 
 
 		</colgroup><tbody><tr valign="top">
 			<td width="33%" height="4" style="border: none; padding: 0in">
-				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Lean
+				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Lean
 					Manufacturing Processes</font></font></font></p>
-					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Process
+					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Process
 					Improvement</font></font></font></p>
-					</li><li><p style="orphans: 0; widows: 0"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Quality
+					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Quality
 					Control &amp; Assurance</font></font></font></p>
-                    </li><li><p style="orphans: 0; widows: 0"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">PCBA Design and Assembly</font></font></font></p>
+                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">PCBA Design and Assembly</font></font></font></p>
 				</li></ul>
 			</td>
 			<td width="33%" style="border: none; padding: 0in">
-				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Production
+				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Production
 					Scheduling</font></font></font></p>
-					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Project
+					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Project
 					Management</font></font></font></p>
-                    </li><li><p style="orphans: 0; widows: 0"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></font></p>
-					</li><li><p style="orphans: 0; widows: 0"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Machine
+                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></font></p>
+					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Machine
 					Design &amp; Automation</font></font></font></p>
 				</li></ul>
 			</td>
 			<td width="33%" style="border: none; padding: 0in">
-				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Design
+				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Design
 					for Manufacturability</font></font></font></p>
-					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">CAD/CAM
+					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">CAD/CAM
 					Software</font></font></font></p>
-					</li><li><p style="orphans: 0; widows: 0"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Material
+					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Material
 					Science &amp; Engineering</font></font></font></p>
                     
-					</li><li><p style="orphans: 0; widows: 0"><font color="#000000"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></font></p>
+					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></font></p>
 				</li></ul>
 			</td>
 		</tr>
