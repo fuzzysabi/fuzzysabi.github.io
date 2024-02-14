@@ -6,4 +6,4 @@ tags:
 - hash-import-2023-01-02-19-37
 ---
 
-![](/pictures/main.png)
+![](/pictures/recipes.png)
