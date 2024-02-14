@@ -12,7 +12,7 @@ After several rounds of back and forth to get "site inspections", my wife was a 
 
 Even so, our unit arrived today. Rather than try to sway you with more words, I'm just going to show you what I came home to. Folks, I give you our install:
 
-![](/assets/images/2023/01/20230123_173545.jpg)
+![](/pictures/20230123_173545.jpg)
 
 Indeed, I am impressed! Astonished, even. It takes _work_ to make this simple of an installation look this bad. I have not been able to bring myself to produce this level of craftsmanship since _at least_ the second grade. If you zoom in close, you can almost smell the [failure](https://youtu.be/lO9K7VMFo2Y) of that ripped down 2x4, stuffed back behind the other two like a forgotten dust bunny in honor of the year of the rabbit. When confronted with such an atrocity, such an absolute assault to logic and affront to the very definition of craftsmanship, I can only conclude that surely there must be some reason:
 
@@ -35,11 +35,11 @@ Update 1/24/2023:
 
 After choosing option 1, I had to get a call from my wife at work to discuss moving the unit. Why? BeCaUsE iTs EaSiEr tO pUt a bOaRd tHeRe. Oh well. Here's what we got:
 
-![](/assets/images/2023/01/20230124_193617.jpg)
+![](/pictures/20230124_193617.jpg)
 
 OK, It's against the wall, I'll give you that. But what's that below?
 
-![](/assets/images/2023/01/20230124_193623.jpg)
+![](/pictures/20230124_193623.jpg)
 
 Yeah. Shims go the other way for support, so it appears that your IQ has risen to rival that of a molding jar of pickled pigs feet. Fine. Obviously this is the best I'm getting out of you, and it sounds like even that was a struggle. I am certain that you are at least safe from zombies, so that's a plus. Perhaps a job at the [postal service](https://youtu.be/ZlUJmT2h3-4?t=28) would better suit this level of care?
 

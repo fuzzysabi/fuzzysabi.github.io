@@ -7,4 +7,4 @@ tags:
 - photography
 ---
 
-![](/assets/images/2023/05/20230407_065845.jpg)
+![](/pictures/20230407_065845.jpg)

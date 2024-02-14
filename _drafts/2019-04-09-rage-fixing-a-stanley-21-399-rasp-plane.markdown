@@ -10,36 +10,25 @@ So, the other day I was finally installing the trim around the windows, when the
 
 First, I grabbed a piece of scrap hardwood, a bolt, and a matching threaded insert.
 
-<figure class=)
-* * *
+
 
 Drill out the hole, and mark the appropriate shape
 
-<figure class=)
+
 
 Plane the front angle
 
-<figure class=)
 
 Insert the threaded...er...insert
 
-<figure class=)
 
 Chisel the angle for the blade hook
 
-<figure class=)
-
 Test fit and file accordingly
-
-<figure class=)
 
 Too high, file a bit more
 
-<figure class=)
-
 Perfect. Rage-fix time: 15 minutes. Less time than going back to the store.
-
-<figure class=)
 
 (originally published on my blog Cookies and Napalm on 9/19/15)
 
