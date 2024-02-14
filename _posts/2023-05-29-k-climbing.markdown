@@ -8,4 +8,4 @@ tags:
 
 Impressed by her willingness to try, to fall, to keep going until she's at the top!
 
-![](/assets/images/2023/05/20230401_140349.jpg)
+![](/pictures/20230401_140349.jpg)

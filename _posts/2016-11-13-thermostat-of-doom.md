@@ -7,7 +7,7 @@ title: Thermostat of DOOM!
 I made a thermostat nearly a year ago using an arduino pro mini, an old usb
 converter, a big relay, and a couple of sensors left over from work. it looks
 like a [bomb][ahmed], which is awesome, and it's hard coded to around 55 degrees, which
-is perfect for my shop. ![thermostat][thermostat|rotate="90"]
+is perfect for my shop. ![thermostat](/pictures/thermostat.jpg){:rotate(80deg)}
 
 This has worked flawlessly for a long time now without any interaction from me
 to keep my glue from freezing up and my fingers working even in the coldest of
@@ -174,5 +174,4 @@ what can you do?
        }
 
 
-[thermostat]: /pictures/thermostat.jpg
 [ahmed]: https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident

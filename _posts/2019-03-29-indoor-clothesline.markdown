@@ -10,7 +10,7 @@ Clotheslines are the bomb. I mean, just put your clothes on this medieval device
 
 Basically, this project is as simple as it gets. Put a couple of eye screws in two boards, and attach them on opposite walls. My contribution is small boat cleats under one side, allowing you to put up or tighten at your leisure without fussing about with too many knots.
 
-![clothesline](/assets/images/2019/03/clothesline.jpg)
+![clothesline](/pictures/clothesline.jpg)
 
 Far Side:
-![clothesline](/assets/images/2019/03/clothesline1.jpg)
+![clothesline](/pictures/clothesline1.jpg)
