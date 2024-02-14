@@ -13,7 +13,7 @@ Cody's Table
 Pole lathe
 
 
-![Pole Lathe](/pictures/lathe.jpg){.img180}
+![Pole Lathe](/pictures/lathe.jpg){: .img180}
 
 
 LED Shop light
