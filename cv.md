@@ -9,53 +9,49 @@ permalink: /cv/
 
 Innovative, skilled, and solution-oriented general engineer with a proven track record of optimizing production processes and reducing costs. Skilled in analyzing manufacturing systems and implementing improvements to increase efficiency and productivity. Proficient in CAD software for designing and testing new equipment and processes. Proven expertise in managing cross-functional teams and collaborating with suppliers and vendors to ensure on-time delivery of high-quality products. Familiarity with Six Sigma methodologies for process improvement and cost reduction. In-depth knowledge of lean manufacturing principles and experience with ERP systems such as Oracle.
 
-![MX64 test fixture](/assets/images/2023/05/connector_mx64.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![MX64 test fixture](/pictures/connector_mx64.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
 <table width="100%" cellpadding="7" cellspacing="0">
 		<colgroup><col width="85*">
-
 		<col width="85*">
-
 		<col width="85*">
-
 		</colgroup><tbody><tr valign="top">
 			<td width="33%" height="4" style="border: none; padding: 0in">
 				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Lean
-					Manufacturing Processes</font></font></font></p>
+					Manufacturing Processes</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Process
-					Improvement</font></font></font></p>
+					Improvement</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Quality
-					Control &amp; Assurance</font></font></font></p>
-                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">PCBA Design and Assembly</font></font></font></p>
+					Control &amp; Assurance</font></font></p>
+                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">PCBA Design and Assembly</font></font></p>
 				</li></ul>
 			</td>
 			<td width="33%" style="border: none; padding: 0in">
 				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Production
-					Scheduling</font></font></font></p>
+					Scheduling</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Project
-					Management</font></font></font></p>
-                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></font></p>
+					Management</font></font></p>
+                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Machine
-					Design &amp; Automation</font></font></font></p>
+					Design &amp; Automation</font></font></p>
 				</li></ul>
 			</td>
 			<td width="33%" style="border: none; padding: 0in">
 				<ul><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Design
-					for Manufacturability</font></font></font></p>
+					for Manufacturability</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">CAD/CAM
-					Software</font></font></font></p>
+					Software</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Material
-					Science &amp; Engineering</font></font></font></p>
-                    
-					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></font></p>
+					Science &amp; Engineering</font></font></p>
+					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></p>
 				</li></ul>
 			</td>
 		</tr>
 	</tbody></table>
 
-![](/assets/images/2023/05/arduinocabletest.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![](/pictures/arduinocabletest.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Professional Experience
 
@@ -87,43 +83,45 @@ Innovative, skilled, and solution-oriented general engineer with a proven track 
 - Four Stroke Engine Specialist, Country Homes Power Equipment, Spokane, WA
 
 ## Technical Proficiencies:
-<table width="100%" cellpadding="7" cellspacing="0">
-	<colgroup><col width="47*">
 
-	<col width="209*">
 
-	</colgroup><tbody><tr valign="top">
-		<td width="18%" style="border: none; padding: 0in"><p align="left" style="orphans: 2; widows: 2; margin-top: 0.08in">
-			<font color="#0f5581"><font face="Franklin Gothic Book, serif"><font size="2" style="font-size: 10pt"><strong><font color="#005f65"><font face="Helvetica, serif">Electrical:</font></font></strong></font></font></font></p>
-		</td>
-		<td width="82%" style="border: none; padding: 0in"><p align="left" style="orphans: 2; widows: 2; margin-top: 0.08in">
-			<font face="Corbel, serif"><font size="2" style="font-size: 10pt"><font face="Franklin Gothic Book, serif">Automotive
-			Wiring and Manufacturing, IPC/WHMA-620, 110v, 220v, Three-phase AC
-			Motors, DC Systems, PIC, and ATMEL Microprocessors</font></font></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="18%" style="border: none; padding: 0in"><p align="left" style="orphans: 2; widows: 2; margin-top: 0.08in">
-			<font color="#0f5581"><font face="Franklin Gothic Book, serif"><font size="2" style="font-size: 10pt"><strong><font color="#005f65"><font face="Helvetica, serif">Tooling:</font></font></strong></font></font></font></p>
-		</td>
-		<td width="82%" style="border: none; padding: 0in"><p align="left" style="orphans: 2; widows: 2; margin-top: 0.08in">
-			<font face="Corbel, serif"><font size="2" style="font-size: 10pt"><font face="Franklin Gothic Book, serif">Python,
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8hko{font-size:small;text-align:left;vertical-align:top}
+.tg .tg-o8ye{color:#0f5581;font-size:medium;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-o8ye"><span style="font-weight:bold">Electrical:</span></th>
+    <th class="tg-8hko">
+		Automotive Wiring and Manufacturing, IPC/WHMA-620, 110v, 220v, Three-phase AC
+		Motors, DC Systems, PIC, and ATMEL Microprocessors</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-o8ye">Tooling:</td>
+    <td class="tg-8hko">Python,
 			Power Automate, C++, Bash, Vim, LaTeX Typesetting, FreeCAD,
 			OpenSCAD, KICAD ECAD suite, MS Office Suite, Linux, Ubuntu,
-			Debian, Windows 7 and 10, Welding: GTAW, SMAW, MIG, GD&amp;T</font></font></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td width="18%" style="border: none; padding: 0in"><p align="left" style="orphans: 2; widows: 2; margin-top: 0.08in">
-			<font color="#0f5581"><font face="Franklin Gothic Book, serif"><font size="2" style="font-size: 10pt"><strong><font color="#005f65"><font face="Helvetica, serif">Hardware:</font></font></strong></font></font></font></p>
-		</td>
-		<td width="82%" style="border: none; padding: 0in"><p align="left" style="orphans: 2; widows: 2; margin-top: 0.08in">
-			<font face="Corbel, serif"><font size="2" style="font-size: 10pt"><font face="Franklin Gothic Book, serif">Raspberry
-			Pi, Arduino, Electromagnetic Relays, Modix Big 60 dual head FDM
-			Printer, Control Panel Assembly</font></font></font></p>
-		</td>
-	</tr>
-</tbody></table>
+			Debian, Windows 7 and 10, Welding: GTAW, SMAW, MIG, GD&amp;T</td>
+  </tr>
+  <tr>
+    <td class="tg-o8ye">Hardware</td>
+    <td class="tg-8hko">Raspberry Pi, Arduino, Electromagnetic Relays, Modix Big 60 dual head FDM Printer, Control Panel Assembly</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
 
 ## Education:
 
@@ -136,6 +134,7 @@ Colorado NW Community College, Rangely, CO
 Front Range Community College, Westminster, CO
 
 ## Licenses & Certifications
+IPC Wire Harness Assembly Operator
 
 EVPro+ Level 1 Certification, Electrified Transportation
 

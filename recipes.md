@@ -6,4 +6,4 @@ tags:
 - hash-import-2023-01-02-19-37
 ---
 
-![](/assets/images/2019/05/main.png)
+![](/pictures/main.png)
