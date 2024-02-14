@@ -13,7 +13,7 @@ Cody's Table
 Pole lathe
 
 
-![Pole Lathe](/pictures/lathe.jpg){: .img180}
+<img src="/pictures/lathe.jpg" rotate="180deg">
 
 
 LED Shop light
