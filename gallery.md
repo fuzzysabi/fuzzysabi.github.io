@@ -19,7 +19,7 @@ Pole lathe
 LED Shop light
 
 
-![Shop light](/pictures/shoplight1.jpg)
+<img src="/pictures/shoplight1.jpg" style="transform:rotate(180deg);">
 
 
 Ring Board
