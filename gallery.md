@@ -13,13 +13,13 @@ Cody's Table
 Pole lathe
 
 
-<img src="/pictures/lathe.jpg" style="transform:rotate(180deg);">
+<img src="/pictures/lathe.jpg" style="transform:rotate(0deg);">
 
 
 LED Shop light
 
 
-<img src="/pictures/shoplight1.jpg" style="transform:rotate(1800deg);">
+<img src="/pictures/shoplight1.jpg" style="transform:rotate(180deg);">
 
 
 Ring Board
