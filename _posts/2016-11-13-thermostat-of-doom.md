@@ -2,6 +2,9 @@
 layout: default
 date: 2016-11-13
 title: Thermostat of DOOM!
+tags:
+- build
+- electronics
 ---
 
 I made a thermostat nearly a year ago using an arduino pro mini, an old usb

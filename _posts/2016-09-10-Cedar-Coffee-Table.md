@@ -2,6 +2,9 @@
 date: 2016-09-10
 title: Coffee Table Build
 layout: post
+tags:
+- build
+- woodworking
 ---
 Check out this coffee table I made for my friend Cody: ![table][final]
 

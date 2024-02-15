@@ -4,8 +4,8 @@ title: How can I explain this to my son?
 date: '2019-06-01 15:00:00'
 tags:
 - pa
-- bluecollartheology
-- hash-import-2023-01-02-19-37
+- BlueCollarTheology
+
 ---
 
 In homage to my dad, who passed away a year ago today, I'd like to publish one of his writings about when my grandfather passed, and his struggles with how to tell me. Thanks Pa, I love you.

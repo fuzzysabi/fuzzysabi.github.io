@@ -5,7 +5,7 @@ date: '2020-12-13 22:31:00'
 tags:
 - pa
 - pa-letters
-- hash-import-2023-01-02-19-37
+- BlueCollarTheology
 ---
 
 > James, a bondservent of God and of our Lord Jesus Christ, To the twelve tribes which are scattered abroad:

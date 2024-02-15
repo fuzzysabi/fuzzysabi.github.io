@@ -5,7 +5,7 @@ date: '2020-11-29 22:18:00'
 tags:
 - pa-letters
 - pa
-- hash-import-2023-01-02-19-37
+- BlueCollarTheology
 ---
 
 # The Pa Letters, Chapter 4: Forgiveness

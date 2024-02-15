@@ -2,6 +2,8 @@
 layout: post
 title: 'EV Startups: The SPAC-enning'
 date: '2024-02-03 23:07:03'
+tags:
+- essays
 ---
 
 2020 saw a rise in a loophole in the public market, which seemed to take the EV world by storm: the SPAC, or Special Purpose Acquisition Corporation. The concept is that a shell corporation large enough to be publicly traded on Wall Street would buy a brick and mortar company, thereby absorbing it into it's already-tradeable status without all that hassle and time of playing by the rules. EV companies already playing fast and loose with the regulations were drawn to this get rich quick scheme like moths to the flame, and like Icarus have risen and fallen just as quickly. Lucid, Lightning, Proterra, Lordstown: all titles of the past. As of this writing, Lion is right behind and will likely follow suit. What went wrong?
