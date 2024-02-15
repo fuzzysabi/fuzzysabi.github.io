@@ -5,7 +5,7 @@ date: '2020-11-15 22:11:00'
 tags:
 - pa-letters
 - pa
-- hash-import-2023-01-02-19-37
+- BlueCollarTheology
 ---
 
 > Do not let kindness and truth leave you; Bind them around your neck, Write them on the tablet of your heart, So you will find favor and good repute in the sight of God and man.

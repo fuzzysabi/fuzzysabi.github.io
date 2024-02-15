@@ -3,7 +3,8 @@ layout: post
 title: On Grafting
 date: '2019-05-14 02:46:00'
 tags:
-- hash-import-2023-01-02-19-37
+- essays
+- BlueCollarTheology
 ---
 
 > But if some of the branches were broken off, and you, although a wild olive shoot, were grafted in among the others and now share in the nourishing root of the olive tree, do not be arrogant toward the branches. **Romans 11:17-18**

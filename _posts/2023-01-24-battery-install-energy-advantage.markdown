@@ -2,6 +2,11 @@
 layout: post
 title: Farpotshket Battery Install, by Energy Advantage
 date: '2023-01-24 04:38:43'
+tags:
+- installation
+- failure
+- skill
+- reviews
 ---
 
 1/22/2023
