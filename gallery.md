@@ -4,6 +4,11 @@ title: Gallery
 permalink: /gallery/
 ---
 
+Timber Frame Bunk Bed with shelving
+
+![](/pictures/bunkbed/IMG_1303.jpg)
+
+
 Cody's Table
 
 
@@ -19,7 +24,7 @@ Pole lathe
 LED Shop light
 
 
-<img src="/pictures/shoplight1.jpg" style="transform:rotate(180deg);">
+<img src="/pictures/shoplight1.jpg" style="transform:rotate(90deg);">
 
 
 Ring Board
