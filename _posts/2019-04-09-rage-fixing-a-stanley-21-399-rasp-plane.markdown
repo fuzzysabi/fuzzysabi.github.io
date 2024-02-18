@@ -19,11 +19,11 @@ Drill out the hole, and mark the appropriate shape
 
 Plane the front angle, insert the threaded...er...insert, chisel the angle for the blade hook and test fit and file accordingly
 
-![](/pictures/IMG_1751.jpg)
+![](/pictures/IMG_1751.JPG)
 
 Perfect. Rage-fix time: 15 minutes. Less time than going back to the store.
 
-![](/pictures/IMG_1756.jpg)
+![](/pictures/IMG_1756.JPG)
 
 (originally published on my blog Cookies and Napalm on 9/19/15)
 
