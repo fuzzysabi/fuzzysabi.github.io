@@ -1,7 +1,7 @@
 ---
 layout: post
 post: Obligatory Conversion to Jekyll Post
-date: 2024-02-19
+date: '2024-02-19'
 tags: 
 - linux
 - meta
