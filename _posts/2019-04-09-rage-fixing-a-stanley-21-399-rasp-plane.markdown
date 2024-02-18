@@ -15,7 +15,7 @@ First, I grabbed a piece of scrap hardwood, a bolt, and a matching threaded inse
 
 Drill out the hole, and mark the appropriate shape
 
-![](/pictures/IMG_1749.JPG)
+![](/pictures/IMG_1748.JPG)
 
 Plane the front angle, insert the threaded...er...insert, chisel the angle for the blade hook and test fit and file accordingly
 
