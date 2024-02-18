@@ -1,6 +1,6 @@
 ---
 layout: post
-post: Obligatory Conversion to Jekyll Post
+title: Obligatory Conversion to Jekyll Post
 date: '2024-02-19 21:00:00'
 tags: 
 - linux
