@@ -5,9 +5,7 @@ date: '2023-01-02 19:57:28'
 permalink: /recipes/
 ---
 
-# Recipes
-
-## **DESSERT**
+# **DESSERT**
 
 
 ### **Chocchip cookies** 
@@ -30,7 +28,7 @@ Mix 8oz cold butr/12oz white flr til crumbly. Add 2--4T cold H2Otill dough forms
 1C cracker crumbs/C sug/6T butr/t cinn. Bake 7min@375, chill 1hr
 ### **KrispyTreats**
 285 mallow/1 stick butr/250g krispies
-## **BREAD**
+# **BREAD**
 
 ### **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
 720 start/715 flr/515 H2O/285 whtflr/65 mol/130 oil/25 s/5 yeast. Mix & rise, split/proof and bake 20min@475, then 20min@350.
@@ -54,7 +52,7 @@ Mix 10oz flr/2t pwdr/1t soda; + 4T butr, 8oz good cheese; +10oz buttrmilk/1 egg,
 360 flr/5 sug/14 pwdr/6T butr/250 milk
 
 
-## **DINNER**
+# **DINNER**
 
 ### **Potato Soup** 
 Peel&cube 4 lg potato; pressure cook 7min. Roux C buttr/C white flr; +7C milk. Heat till thick. +potato/4 scalion. Simmr 10min. +12 cooked bacon/1C sourcrm/1C chedr/1/2t s+p. Stir till cheese melts.
@@ -67,7 +65,7 @@ In casrol, +tortillas/chx/bnz/rice/el pato sauce+crm of chx/chz/corn. Bake 350 t
 ### **Mac and Cheese** 
 Roux 2T butr/3T white flr, +24oz milk/1t mustard/gar/p/onion. Cool to 160, +8oz cheese. Add to 1lb cooked pasta.
 
-## **BREAKFAST**
+# **BREAKFAST**
 
 ### **Waffles** 
 Mix 240g flr/30g sug/450g buttrmilk/240g starter. Leave ovrnite. +2egg/stick (55g) mltdbuttr/8g soda. Bake on htd iron.
