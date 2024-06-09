@@ -29,7 +29,7 @@ Mix 8oz cold butr/12oz white flr til crumbly. Add 2--4T cold H2Otill dough forms
 ### **KrispyTreats**
 285 mallow/1 stick butr/250g krispies
 # **BREAD**
-![Bread page](/bread.md)
+[Bread page](/bread.md)
 
 ### **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
 720 start/715 flr/515 H2O/285 whtflr/65 mol/130 oil/25 s/5 yeast. Mix & rise, split/proof and bake 20min@475, then 20min@350.
@@ -64,7 +64,7 @@ Marinade 5lb pork 2incube; 30 achiote/4 cum/8 pep/30 salt/1.5 allspice/1.5 clove
 ### **Gringo Enchiladas** 
 In casrol, +tortillas/chx/bnz/rice/el pato sauce+crm of chx/chz/corn. Bake 350 til hot.
 ### **Mac and Cheese** 
-Roux 2T butr/3T white flr, +24oz milk/1t mustard/gar/p/onion. Cool to 160, +8oz cheese. Add to 1lb cooked pasta.
+Roux 28 butr/25 white flr, 680 milk/2 mustard/3 gar pwd/2 p/2 onion pwd. Cool to 160, +225 cheese. Add to 450g cooked pasta.
 
 # **BREAKFAST**
 
