@@ -60,7 +60,7 @@ Peel&cube 4 lg potato; pressure cook 7min. Roux C buttr/C white flr; +7C milk. H
 ### **Black Bean Soup**
 Saute 3/4 C carot/1 onion/ 3/4 C celery. +4T gar/2pt blkbeans/3.5oz grnchili/24oz broth/1t s/ 1/2 t blkpepr/ 1/2 t chilipwdr/ 1/4t cumin/ 1/2t oregano/1 bay/2T lime. Simmer 20 min, remove leaf and blitz.\\
 ### **Pibil** 
-Marinade 5lb pork 2incube; 5T achiote/2t cum/1T pep/2T salt/8 allspice/t cloves/C oj+vin+lem/8 gar/ 2 habaM-CM-1ero/2T tequila; bake 4hr@325 in banana leaves.
+Marinade 5lb pork 2incube; 30 achiote/4 cum/8 pep/30 salt/1.5 allspice/1.5 cloves/125 oj+vin+lem/8 gar/ 2 habañero/30 tequila; bake 4hr@325 in banana leaves.
 ### **Gringo Enchiladas** 
 In casrol, +tortillas/chx/bnz/rice/el pato sauce+crm of chx/chz/corn. Bake 350 til hot.
 ### **Mac and Cheese** 
