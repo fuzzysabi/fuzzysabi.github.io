@@ -9,7 +9,7 @@ permalink: /bread/
 All breads have a similar theme, called baker's percentages. The weight of the flour is 100%, and everything else is calcualted from there. This makes it much easier to scale the recipe to any size you want. I'll keep updating as I go along, with tables and other recipes.
 
 ### **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
-720 start/715 flr/515 H2O/285 whtflr/65 mol/130 oil/25 s/5 yeast. Mix & rise, split/proof and bake 20min@475, then 20min@350.
+720 start/670 flr/515 H2O/285 whtflr/65 mol/130 oil/25 s/5 yeast. Mix & rise, split/proof and bake 20min@475, then 20min@350.
 ### **Hamburger Buns**
 Heat 20 wht flr/30H2O/60 milk till gelled. +320 wht flr/120 H2O/45 butr/25 sug/12 pwdr milk/9 yeast/7 s. Bake 15min@375
 ### **Pizza dough for 2x16'' pizzas** 

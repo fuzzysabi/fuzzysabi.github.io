@@ -13,7 +13,7 @@ Cream 2 sticks(225g) buttr/370g turbinado sug; +2egg/1TH2O. Mix 315g flr/t(3.8g)
 ### **Molasses Cookies** 
 Crm 2 sticks(225g) butr+370g brnsug, +34g oil/147g molasses/2egg/1t(5.4g) vanil/1T(5g)H2O. Combine 625g flr+13g soda/ 5g cin/3.2g gin, 2g clove, add to mix. Chill 2hr, portion&roll in sug. form&bake 11.5min@350.
 ### **2x PBCC Cookies** 
-Mix 450g flr/20g bkgpdr+sug/5g s/1 stick (113g)4oz short or marg. +565g brsug/1 can(450g) Skippy/225g Boiling H2O. Cool slightly; add 345g chocchip. Form & bake 11.5min@350convection.
+Mix 450g flr/20g bkgpdr+sug/1 stick (113g)4oz butr. +565g brsug/1 can(450g) Skippy/225g Boiling H2O. Cool slightly; add 345g chocchip. Form & bake 11.5min@350convection.
 ### **Daffodil Cake** 
 Mix 1C white flr/+2T sug. Beat 12eggwt/ t S/ 1t crm of tartar till foamy; +C sug, beat to peaks; fold in 1t vanil/1T lem zest; +dry. Beat 6 yolk, add M-BM- mix. +altrnatng spnfls, bake 35min@375.
 ### **Muddy Buddies** 
