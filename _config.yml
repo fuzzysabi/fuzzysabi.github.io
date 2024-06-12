@@ -37,7 +37,7 @@ plugins:
 - jekyll-remote-theme
 
 #gems: [jekyll-paginate]
-#paginate: 5
+paginate: 5
 #paginate_path: "page:num"
 
 # Exclude from processing.
