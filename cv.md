@@ -55,7 +55,7 @@ Innovative, skilled, and solution-oriented general engineer with a proven track 
 
 ## Professional Experience
 
-### Lighting eMotors, Loveland, CO  2019 – Present
+### Lighting eMotors, Loveland, CO  June 2019 – December 2023 
 
 #### Research and Development Technician II
 
