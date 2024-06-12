@@ -33,10 +33,11 @@ github_username:  blessedbiped
 #  - jekyll-feed
 
 remote_theme: ngzhio/jekyll-theme-hamilton
-paginate: 5
 plugins:
-- jekyll-remote-theme
+    - jekyll-remote-theme
+    - jekyll-paginate
 
+paginate: 5
 #gems: [jekyll-paginate]
 #paginate_path: "page:num"
 
