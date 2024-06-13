@@ -34,5 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick"
 gem "jekyll-paginate"
-gem "jekyll-theme-architect"
+gem "jekyll-sitemap"
+#gem "jekyll-theme-architect"
 #gem "jekyll-theme-canyon"
