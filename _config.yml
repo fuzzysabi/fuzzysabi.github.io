@@ -35,11 +35,11 @@ github_username:  blessedbiped
 remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
     - jekyll-remote-theme
-    #- jekyll-paginate
+    - jekyll-paginate
 
-#paginate: 5
-#gems: [jekyll-paginate]
-#paginate_path: "page:num"
+paginate: 5
+gems: [jekyll-paginate]
+paginate_path: "page:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
