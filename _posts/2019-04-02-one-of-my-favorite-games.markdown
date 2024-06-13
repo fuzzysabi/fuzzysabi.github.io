@@ -4,7 +4,8 @@ title: One of My Favorite Games
 date: '2019-04-02 04:11:00'
 tags:
 - build
-- game
+- games
+category: woodworking
 ---
 
 Rings, or ringboard, is an old English pub dexterity game. The game consists of a series of 13 hooks arranged on a board, at which are thrown 6 rubber rings. First to a pre-set number (a nice round number between 50 and 500) wins.

@@ -7,6 +7,7 @@ tags:
 - BCT
 - Numbers
 - Old Testament
+category: essay
 ---
 
 > Numbers 31:21-23: Then Eleazar the priest said to the soldiers who had gone into battle, “This is what is required by the law that the Lord gave Moses: Gold, silver, bronze, iron, tin, lead and anything else that can withstand fire must be put through the fire, and then it will be clean. But it must also be purified with the water of cleansing. And whatever cannot withstand fire must be put through that water.

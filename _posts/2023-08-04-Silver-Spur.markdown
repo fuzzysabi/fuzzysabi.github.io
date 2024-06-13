@@ -6,6 +6,7 @@ tags:
 - California
 - road trips
 - family
+category: "Road Trip"
 ---
 
 ![](/pictures/20230622_102800.jpg)

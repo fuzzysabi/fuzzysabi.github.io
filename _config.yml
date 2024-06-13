@@ -32,13 +32,13 @@ github_username:  blessedbiped
 #plugins:
 #  - jekyll-feed
 
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: zivong/jekyll-theme-hamilton
 plugins:
     - jekyll-remote-theme
     - jekyll-paginate
     - jekyll-sitemap
 
-#paginate: 5
+paginate: 5
 #paginate_path: "/more/page:num"
 
 # Exclude from processing.

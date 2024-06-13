@@ -6,6 +6,7 @@ tags:
 - pa
 - pa-letters
 - BlueCollarTheology
+category: "The Pa Letters"
 ---
 
 > James, a bondservent of God and of our Lord Jesus Christ, To the twelve tribes which are scattered abroad:

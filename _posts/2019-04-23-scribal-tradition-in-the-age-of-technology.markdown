@@ -4,6 +4,7 @@ title: Scribal Tradition in the age of Technology
 date: '2019-04-23 00:36:00'
 tags:
 - essays
+category: essay
 ---
 
 3000 years ago, a sect of monks placed copies of a writing into stone jars within a cave as they were fleeing an invading army. These precious relics sat there until the 1950's, when a group of archaeologists discovered them. After several years of translation, they discovered that the then-called "Dead Sea Scrolls" contained the earliest known copies of much of the Old Testament. The only reason that these documents were preserved was because of the pristine environment in which the volumes had been placed without being disturbed for centuries.

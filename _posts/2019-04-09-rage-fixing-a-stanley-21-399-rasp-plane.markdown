@@ -5,6 +5,7 @@ date: '2019-04-09 04:12:00'
 tags:
 - ragefix
 - repair
+category: repair
 ---
 
 ![](/pictures/IMG_1749.JPG)

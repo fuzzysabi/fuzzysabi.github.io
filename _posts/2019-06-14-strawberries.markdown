@@ -3,6 +3,7 @@ layout: post
 title: Strawberries- first of the season
 date: '2019-06-14 16:10:34'
 tags: garden
+category: garden
 ---
 
 ![](/pictures/20190610_091036_HDR.jpg)

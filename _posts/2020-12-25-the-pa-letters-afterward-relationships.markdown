@@ -6,6 +6,7 @@ tags:
 - pa-letters
 - pa
 - BlueCollarTheology
+category: "The Pa Letters"
 ---
 
 Six years before the project that would become "The Pa Letters," Pa wrote a chapter in his Blue Collar Theology series on relationships. It belongs in this series as well, so I've included it in the end as a "beforeward".

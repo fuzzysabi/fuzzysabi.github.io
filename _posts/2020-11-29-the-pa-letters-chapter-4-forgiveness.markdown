@@ -6,6 +6,7 @@ tags:
 - pa-letters
 - pa
 - BlueCollarTheology
+category: "The Pa Letters"
 ---
 
 # The Pa Letters, Chapter 4: Forgiveness

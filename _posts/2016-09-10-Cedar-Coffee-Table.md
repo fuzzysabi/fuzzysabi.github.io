@@ -5,6 +5,8 @@ layout: post
 tags:
 - build
 - woodworking
+
+category: woodworking
 ---
 Check out this coffee table I made for my friend Cody: ![table][final]
 

@@ -6,6 +6,7 @@ tags:
 - pa-letters
 - pa
 - BlueCollarTheology
+category: "The Pa Letters"
 ---
 
 > Do not let kindness and truth leave you; Bind them around your neck, Write them on the tablet of your heart, So you will find favor and good repute in the sight of God and man.
