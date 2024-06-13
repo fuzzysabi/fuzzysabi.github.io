@@ -37,8 +37,9 @@ plugins:
     - jekyll-remote-theme
     - jekyll-paginate
     - jekyll-sitemap
-    
-paginate: 5
+
+#paginate: 5
+#paginate_path: "/more/page:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
