@@ -5,6 +5,7 @@ date: '2023-05-22 16:03:01'
 tags:
 - harness
 - wiring
+category: inventions
 ---
 
 Traditionally, wire harnesses are pulled on boards with nails in them. But what if you are doing rapid development? How do you pull a new wire harness design every time without wasting wood or time? You make a jig! A big one. Thread some holes into a sheet of plastic, and each design is easy, modular, and modifiable! Draw the layout in dry erase marker, and lengths can change without headache. That first hurdle, though:

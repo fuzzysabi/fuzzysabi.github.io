@@ -6,6 +6,7 @@ tags:
 - pa-letters
 - pa
 - BlueCollarTheology
+category: "The Pa Letters"
 ---
 
 # 

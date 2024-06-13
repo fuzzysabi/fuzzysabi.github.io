@@ -5,6 +5,7 @@ title: Thermostat of DOOM!
 tags:
 - build
 - electronics
+categories: woodworking inventions
 ---
 
 I made a thermostat nearly a year ago using an arduino pro mini, an old usb
