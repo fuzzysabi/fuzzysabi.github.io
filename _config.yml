@@ -38,8 +38,6 @@ plugins:
     - jekyll-paginate
 
 paginate: 5
-gems: [jekyll-paginate]
-paginate_path: "page:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
