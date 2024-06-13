@@ -37,6 +37,7 @@ plugins:
     - jekyll-remote-theme
     - jekyll-paginate
     - jekyll-sitemap
+    
 paginate: 5
 
 # Exclude from processing.
