@@ -36,7 +36,7 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
     - jekyll-remote-theme
     - jekyll-paginate
-
+    - jekyll-sitemap
 paginate: 5
 
 # Exclude from processing.
