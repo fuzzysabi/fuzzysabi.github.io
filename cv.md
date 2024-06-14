@@ -55,6 +55,14 @@ Innovative, skilled, and solution-oriented general engineer with a proven track 
 
 ## Professional Experience
 
+### MM Solutions, Loveland, CO Jan 2024 - Present
+
+#### Engineer/Technician 
+
+- Working with Keysight ADCS team
+- Design, document, test and troubleshoot custom Aerospace and Defense test and calibration systems to ensure reliability and consistency across varied platforms
+- Developed internal automation tooling to reduce repetitive tasks
+
 ### Lighting eMotors, Loveland, CO  June 2019 – December 2023 
 
 #### Research and Development Technician II
