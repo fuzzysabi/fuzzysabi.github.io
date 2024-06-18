@@ -23,7 +23,7 @@ Mix sug/3T white flr/t cin& almnd xtract. Sprinkle over 5C peaches in crust.
 ### **Chocolate Pi** 
 Melt 12oz chocchip/2C minimallow/C milk. Cool, +8oz whipcream. Chill in cracker crust.
 ### **Pi Crust** 
-Mix 8oz cold butr/12oz white flr til crumbly. Add 2--4T cold H2Otill dough forms. Rest and roll. Makes 2 crusts.
+Mix 8oz cold butr/12oz white flr til crumbly. Add 2--4T cold H2O till dough forms. Rest and roll. Makes 2 crusts.
 ### **Cracker crust** 
 1C cracker crumbs/C sug/6T butr/t cinn. Bake 7min@375, chill 1hr
 ### **KrispyTreats**
