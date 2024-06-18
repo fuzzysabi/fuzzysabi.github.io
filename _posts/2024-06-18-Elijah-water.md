@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fire and Water'
+title: 'A Sacrifice of Water'
 date: '2024-06-18 03:00:00'
 tags:
 - essays
