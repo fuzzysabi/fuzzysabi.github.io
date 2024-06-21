@@ -38,7 +38,9 @@ Heat 20 wht flr/30H2O/60 milk till gelled. +320 wht flr/120 H2O/45 butr/25 sug/1
 ### **Pizza dough for 2x16'' pizzas** 
 300 starter/75 wht flr/300 flr/215 H2O/10 s/ 2 yeast/ 100 olvoil
 ### **Tortillas (12)** 
-Cut 2oz fat into 12oz flr; +8oz H2O. Leave overnight. Divide into 12, roll and dry fry.
+Cut 2oz fat into 12oz flour; +8oz H2O. Leave overnight. Divide into 12, roll and dry fry.
+### ** Sourdough Tortillas (12) **
+55g fat/115g flour/450g sourdough
 ### **Pita (8)**
 240 wht flr/85 flr/200H2O/13 sug/2.5 s/3.75 yeast/10 olvoil
 ### **Banana Bread** 
