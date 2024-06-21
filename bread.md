@@ -11,7 +11,7 @@ For sourdough recipes, use commercial yeast for a more predictable (faster) rise
 ## **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
 
 |Ingredient     |Weight| BP|
-|---|---|---|
+|---|---|--:|
 Starter|    720|55
 Flour|      670|51
 Water|      515|39
@@ -26,7 +26,7 @@ Bake: 20min@475F, then 20min@350F
 ## **Hamburger Buns**
 
 |Ingredient     |Weight|
-|---|---|
+|---|---:|
 White Flour|20
 Milk| 60
 Water| 30
@@ -34,7 +34,7 @@ Water| 30
 Heat on the stove until gelled, then add to:
 
 |Ingredient     |Weight|
-|---|---|
+|---|---:|
 White Flour|320
 Water|120
 Butter|45
@@ -49,7 +49,7 @@ Bake: 15min@375F
 ## **Pizza dough for 2x16'' pizzas** 
 
 |Ingredient     |Weight|
-|---|---|
+|---|---:|
 Starter|300
 White flour|75
 Wheat Flour|300
@@ -62,7 +62,7 @@ Yeast|2
 ## **Tortillas (12)** 
 
 |Ingredient     |Weight|
-|---|---|
+|---|---:|
 Flour|12oz
 Fat|2oz
 Water|8oz
@@ -71,7 +71,7 @@ Water|8oz
 ## **Sourdough Tortillas (12)**
 
 |Ingredient     |Weight|
-|---|---|
+|---|---:|
 |Fat|55g|
 |Flour|115g|
 |Sourdough|450g|
@@ -79,7 +79,7 @@ Water|8oz
 ## **Pita (8)**
 
 |Ingredient     |Weight|
-|---|---|
+|---|---:|
 White Flour|240
 Wheat Flour|85
 Water|200
@@ -102,7 +102,7 @@ Mix 10oz flr/2t pwdr/1t soda; + 4T butr, 8oz good cheese; +10oz buttrmilk/1 egg,
 ## [**Sourdough Discard Biscuits**](https://www.kingarthurbaking.com/recipes/buttery-sourdough-biscuits-recipe)
 
 |Ingredient     |Weight|
-|---            |---|
+|---            |---:|
 |Starter        |227g|
 |Flour          |120g|
 |Baking Powder  |2t|
