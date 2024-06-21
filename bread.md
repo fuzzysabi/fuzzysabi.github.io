@@ -6,9 +6,9 @@ permalink: /bread/
 ---
 
 # Bread Recipes
-All breads have a similar theme, called baker's percentages (BP). The weight of the flour is 100%, and everything else is calculated from there. This makes it much easier to scale the recipe to any size you want. I'll keep updating as I go along, with tables and other recipes. Sourdough is odd, since it's floud *and* water, so since I use 100% hydration half of it's weight is added as the total weight of flour and/or water to calculate the hydration, and the ratio of sourdough is still referenced as the total weight of flour. It's a little circular, but it still produces good bread. For sourdough recipes, use commercial yeast for a more predictable (faster) rise, and adjust for the heat of the kitchen. If it's winter, add a bit more. 
+For sourdough recipes, use commercial yeast for a more predictable (faster) rise, and adjust for the heat of the kitchen. If it's winter, add a bit more. 
 
-### **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
+## **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
 
 |Ingredient     |Weight| BP|
 |---|---|---|
@@ -23,34 +23,83 @@ Yeast|      5|0.3
 
 Bake: 20min@475F, then 20min@350F
 
-### **Hamburger Buns**
-Heat 20 wht flr/30H2O/60 milk till gelled. +320 wht flr/120 H2O/45 butr/25 sug/12 pwdr milk/9 yeast/7 s. Bake 15min@375
-### **Pizza dough for 2x16'' pizzas** 
-300 starter/75 wht flr/300 flr/215 H2O/10 s/ 2 yeast/ 100 olvoil
-### **Tortillas (12)** 
-Cut 2oz fat into 12oz flr; +8oz H2O. Leave overnight. Divide into 12, roll and dry fry.
-### **Sourdough Tortillas (12)**
+## **Hamburger Buns**
 
-|Ingredient     |Weight| BP|
-|---|---|---|
-|Fat|55g|16
-|Flour|115g|34
-|Sourdough|450g|130
+|Ingredient     |Weight|
+|---|---|
+White Flour|20
+Milk| 60
+Water| 30
 
-### **Pita (8)**
-240 wht flr/85 flr/200H2O/13 sug/2.5 s/3.75 yeast/10 olvoil
-### **Banana Bread** 
+Heat on the stove until gelled, then add to:
+
+|Ingredient     |Weight|
+|---|---|
+White Flour|320
+Water|120
+Butter|45
+Sugar|25
+Powdered Milk|12
+Yeast|9
+Salt|7
+
+
+Bake: 15min@375F
+
+## **Pizza dough for 2x16'' pizzas** 
+
+|Ingredient     |Weight|
+|---|---|
+Starter|300
+White flour|75
+Wheat Flour|300
+Water|215
+Olive Oil|100
+Salt|10
+Yeast|2
+
+
+## **Tortillas (12)** 
+
+|Ingredient     |Weight|
+|---|---|
+Flour|12oz
+Fat|2oz
+Water|8oz
+
+
+## **Sourdough Tortillas (12)**
+
+|Ingredient     |Weight|
+|---|---|
+|Fat|55g|
+|Flour|115g|
+|Sourdough|450g|
+
+## **Pita (8)**
+
+|Ingredient     |Weight|
+|---|---|
+White Flour|240
+Wheat Flour|85
+Water|200
+Sugar|13
+Salt|2.5
+Yeast|3.75
+Oil|10
+
+## **Banana Bread** 
 Cream 1C sug/C shortening. +2egg/3banana/C buttrmilk/2C flr/1t soda+vanil/t s+cinn. Bake 45min@325 in grsd and flrd pan.
-### **Pumpkin Bread** 
+## **Pumpkin Bread** 
 Cream C Buttr/2C Sug; + 2egg/2C Pumpkin; + sift tog 2C flr/ t pwdr&s/1t nutmeg&clove &cinn. Bake in grsd and sugrd pan 75min@325.
-### **Pao De Qeijo** 
+## **Pao De Qeijo** 
 Blend 1 egg/C olvoil/C milk; + 1C tapioca flr/ C cheese/ s to taste. Bake@400 15-20min in muffin tin.
-### **Cheddar Soda Bread** 
+## **Cheddar Soda Bread** 
 Mix 10oz flr/2t pwdr/1t soda; + 4T butr, 8oz good cheese; +10oz buttrmilk/1 egg, mix until moist. Bake 40min@375.
-### **Biscuits**
+## **Biscuits**
 360 flr/5 sug/14 pwdr/6T butr/250 milk
 
-### [**Sourdough Discard Biscuits**](https://www.kingarthurbaking.com/recipes/buttery-sourdough-biscuits-recipe)
+## [**Sourdough Discard Biscuits**](https://www.kingarthurbaking.com/recipes/buttery-sourdough-biscuits-recipe)
 
 |Ingredient     |Weight|
 |---            |---|
