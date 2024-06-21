@@ -6,16 +6,37 @@ permalink: /bread/
 ---
 
 # Bread Recipes
-All breads have a similar theme, called baker's percentages. The weight of the flour is 100%, and everything else is calcualted from there. This makes it much easier to scale the recipe to any size you want. I'll keep updating as I go along, with tables and other recipes.
+All breads have a similar theme, called baker's percentages (BP). The weight of the flour is 100%, and everything else is calcualted from there. This makes it much easier to scale the recipe to any size you want. I'll keep updating as I go along, with tables and other recipes. Sourdough is odd, since it's floud *and* water, so since I use 100% hydration half of it's weight is added as the total weight of flour and/or water to calculate the hydration, and the ratio of sourdough is still referenced as the total weight of flour. It's a little circular, but it still produces good bread. For sourdough recipes, use commercial yeast for a more predictable (faster) rise, and adjust for the heat of the kitchen. If it's winter, add a bit more. 
 
 ### **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
-720 start/670 flr/515 H2O/285 whtflr/65 mol/130 oil/25 s/5 yeast. Mix & rise, split/proof and bake 20min@475, then 20min@350.
+
+|Ingredient     |Weight| BP|
+|---|---|---|
+Starter|    720|55
+Flour|      670|51
+Water|      515|39
+White Flour|285|22
+Molasses|   65|5
+Oil|        130|10
+Salt|       25|2
+Yeast|      5|0.3
+
+Bake: 20min@475F, then 20min@350F
+
 ### **Hamburger Buns**
 Heat 20 wht flr/30H2O/60 milk till gelled. +320 wht flr/120 H2O/45 butr/25 sug/12 pwdr milk/9 yeast/7 s. Bake 15min@375
 ### **Pizza dough for 2x16'' pizzas** 
 300 starter/75 wht flr/300 flr/215 H2O/10 s/ 2 yeast/ 100 olvoil
 ### **Tortillas (12)** 
 Cut 2oz fat into 12oz flr; +8oz H2O. Leave overnight. Divide into 12, roll and dry fry.
+### **Sourdough Tortillas (12)**
+
+|Ingredient     |Weight| BP|
+|---|---|---|
+|Fat|55g|16
+|Flour|115g|34
+|Sourdough|450g|130
+
 ### **Pita (8)**
 240 wht flr/85 flr/200H2O/13 sug/2.5 s/3.75 yeast/10 olvoil
 ### **Banana Bread** 
