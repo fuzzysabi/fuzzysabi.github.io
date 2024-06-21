@@ -6,7 +6,7 @@ permalink: /bread/
 ---
 
 # Bread Recipes
-All breads have a similar theme, called baker's percentages (BP). The weight of the flour is 100%, and everything else is calcualted from there. This makes it much easier to scale the recipe to any size you want. I'll keep updating as I go along, with tables and other recipes. Sourdough is odd, since it's floud *and* water, so since I use 100% hydration half of it's weight is added as the total weight of flour and/or water to calculate the hydration, and the ratio of sourdough is still referenced as the total weight of flour. It's a little circular, but it still produces good bread. For sourdough recipes, use commercial yeast for a more predictable (faster) rise, and adjust for the heat of the kitchen. If it's winter, add a bit more. 
+All breads have a similar theme, called baker's percentages (BP). The weight of the flour is 100%, and everything else is calculated from there. This makes it much easier to scale the recipe to any size you want. I'll keep updating as I go along, with tables and other recipes. Sourdough is odd, since it's floud *and* water, so since I use 100% hydration half of it's weight is added as the total weight of flour and/or water to calculate the hydration, and the ratio of sourdough is still referenced as the total weight of flour. It's a little circular, but it still produces good bread. For sourdough recipes, use commercial yeast for a more predictable (faster) rise, and adjust for the heat of the kitchen. If it's winter, add a bit more. 
 
 ### **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
 
