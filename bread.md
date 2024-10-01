@@ -89,7 +89,22 @@ Yeast|3.75
 Oil|10
 
 ## **Banana Bread** 
-Cream 1C sug/C shortening. +2egg/3banana/C buttrmilk/2C flr/1t soda+vanil/t s+cinn. Bake 45min@325 in grsd and flrd pan.  
+
+|Ingredient     |Amount|
+|---|---:|
+Sugar|1C
+Shortening|1C
+Egg|2
+Banana|3
+Buttermilk|1C
+Flour|2C
+Baking Soda|1t
+Vanilla|1t
+Salt|1t
+Cinnamon|1t
+
+Bake 45min@325F
+
 
 ## **Pumpkin Bread** 
 Cream C Buttr/2C Sug; + 2egg/2C Pumpkin; + sift tog 2C flr/ t pwdr&s/1t nutmeg&clove &cinn. Bake in grsd and sugrd pan 75min@325.
