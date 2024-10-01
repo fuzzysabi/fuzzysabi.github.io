@@ -65,7 +65,7 @@ Yeast|2
 |---|---:|
 Flour|12oz
 Fat|2oz
-Water|8oz
+Water (hot)|8oz
 
 
 ## **Sourdough Tortillas (12)**
