@@ -107,10 +107,32 @@ Bake 45min@325F
 
 
 ## **Pumpkin Bread** 
-Cream C Buttr/2C Sug; + 2egg/2C Pumpkin; + sift tog 2C flr/ t pwdr&s/1t nutmeg&clove &cinn. Bake in grsd and sugrd pan 75min@325.
+
+|Ingredient     |Amount|
+|---|---:|
+Butter|1C
+Sugar|2C
+Egg|2
+Pumpkin|2C
+Flour|2C
+Baking Powder|1t
+Nutmeg|1t
+Clove|1t
+Cinnamon|1t
+
+Cream butter and sugar, add egg and pumpkin. Sift together dry ingredients, then add in. Bake 75min@325F.
 
 ## **Pao De Qeijo** 
-Blend 1 egg/C olvoil/C milk; + 1C tapioca flr/ C cheese/ s to taste. Bake@400 15-20min in muffin tin.
+
+|Ingredient     |Amount|
+|---|---:|
+Egg|1
+Olive Oil|1C
+Milk|1C
+Tapioca Flour|1C
+Cheese|1C
+
+Blend together, then bake 15-20min@400F in muffin tins.
 
 ## **Cheddar Soda Bread** 
 
