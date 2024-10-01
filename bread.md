@@ -89,7 +89,7 @@ Yeast|3.75
 Oil|10
 
 ## **Banana Bread** 
-Cream 1C sug/C shortening. +2egg/3banana/C buttrmilk/2C flr/1t soda+vanil/t s+cinn. Bake 45min@325 in grsd and flrd pan.
+Cream 1C sug/C shortening. +2egg/3banana/C buttrmilk/2C flr/1t soda+vanil/t s+cinn. Bake 45min@325 in grsd and flrd pan.  
 ## **Pumpkin Bread** 
 Cream C Buttr/2C Sug; + 2egg/2C Pumpkin; + sift tog 2C flr/ t pwdr&s/1t nutmeg&clove &cinn. Bake in grsd and sugrd pan 75min@325.
 ## **Pao De Qeijo** 
