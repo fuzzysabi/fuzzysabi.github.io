@@ -90,12 +90,27 @@ Oil|10
 
 ## **Banana Bread** 
 Cream 1C sug/C shortening. +2egg/3banana/C buttrmilk/2C flr/1t soda+vanil/t s+cinn. Bake 45min@325 in grsd and flrd pan.  
+
 ## **Pumpkin Bread** 
 Cream C Buttr/2C Sug; + 2egg/2C Pumpkin; + sift tog 2C flr/ t pwdr&s/1t nutmeg&clove &cinn. Bake in grsd and sugrd pan 75min@325.
+
 ## **Pao De Qeijo** 
 Blend 1 egg/C olvoil/C milk; + 1C tapioca flr/ C cheese/ s to taste. Bake@400 15-20min in muffin tin.
+
 ## **Cheddar Soda Bread** 
-Mix 10oz flr/2t pwdr/1t soda; + 4T butr, 8oz good cheese; +10oz buttrmilk/1 egg, mix until moist. Bake 40min@375.
+|Ingredient     |Weight|
+|---|---:|
+Flour|10oz
+Baking Powder| 2t
+Baking Soda|1t
+Butter|4T
+Cheese|8oz
+Buttermilk|10oz
+Egg|1
+
+Bake 40min@375F
+
+
 ## **Biscuits**
 360 flr/5 sug/14 pwdr/6T butr/250 milk
 
