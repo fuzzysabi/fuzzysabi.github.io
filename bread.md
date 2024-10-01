@@ -98,7 +98,7 @@ Cream C Buttr/2C Sug; + 2egg/2C Pumpkin; + sift tog 2C flr/ t pwdr&s/1t nutmeg&c
 Blend 1 egg/C olvoil/C milk; + 1C tapioca flr/ C cheese/ s to taste. Bake@400 15-20min in muffin tin.
 
 ## **Cheddar Soda Bread** 
-|Ingredient     |Weight|
+|Ingredient     |Amount|
 |---|---:|
 Flour|10oz
 Baking Powder| 2t
