@@ -113,7 +113,15 @@ Bake 40min@375F
 
 
 ## **Biscuits**
-360 flr/5 sug/14 pwdr/6T butr/250 milk
+
+|Ingredient     |Amount|
+|---|---:|
+Flour|360g
+Sugar|5g
+Baking Powder|14g
+Butter|6T
+Milk|250g
+
 
 ## [**Sourdough Discard Biscuits**](https://www.kingarthurbaking.com/recipes/buttery-sourdough-biscuits-recipe)
 
