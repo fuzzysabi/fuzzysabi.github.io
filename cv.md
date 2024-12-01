@@ -62,6 +62,8 @@ Innovative, skilled, and solution-oriented general engineer with a proven track 
 - Working with Keysight ADCS team
 - Design, document, test and troubleshoot custom Aerospace and Defense test and calibration systems to ensure reliability and consistency across varied platforms
 - Developed internal automation tooling to reduce repetitive tasks
+- Electrical Design for manufacturing
+- Instrumental in selecting new ECAD software for production
 
 ### Lighting eMotors, Loveland, CO  June 2019 – December 2023 
 
