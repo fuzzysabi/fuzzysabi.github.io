@@ -16,7 +16,7 @@ by: Dan Conley
 
 **Guidelines For Studying Scripture**
 
-     In our present cultural environment with its, "do everything you can as fast as you can" mentality, it is becoming quite common for people to become sloppy 
+In our present cultural environment with its, "do everything you can as fast as you can" mentality, it is becoming quite common for people to become sloppy 
 in their methods of Bible study. Unfortunately, many Christians, Sunday School teachers and even pastors are guilty of this improper type of studying. 
 If we truly value God's word we should always take the time to study it correctly, and as II Timothy 2:14-15 reminds us:
                
@@ -27,7 +27,7 @@ If we truly value God's word we should always take the time to study it correctl
 >               does not need to be ashamed, handling accurately the word of
 >               truth."
 
-     Here are a few simple guidelines that can help in developing "accurate" Bible study methods and habits.
+Here are a few simple guidelines that can help in developing "accurate" Bible study methods and habits.
 
 ** The Don'ts **
 
@@ -76,10 +76,10 @@ If we truly value God's word we should always take the time to study it correctl
 It is also true, however, that we invite, and produce our own problems in interpretation when we fail to use proper Bible study methods 
 or 'hermeneutics'. A few short excerpts from the book; Biblical Revelation by Clark H. Pinnock;(1971, by Moody Press; Chicago, 
 Ill.; p.208, 209, 211) may help us to better understand this problem.
->     1) "Because Scripture is capable of being twisted and mishandled (2 Pe.3:15-16; 2 Cor. 2:17), it is imperative to 
+> 1) "Because Scripture is capable of being twisted and mishandled (2 Pe.3:15-16; 2 Cor. 2:17), it is imperative to 
 > observe rules of a sound hermeneutic. A loose hermeneutic can destroy the meaning of inspiration altogether, and may be a 
 > cloak for denial of biblical teachings." p.208, 
->     2) "Hermenneutics is the science of correctly interpreting God's Word, of 
+> 2) "Hermenneutics is the science of correctly interpreting God's Word, of 
 > observing principles whereby the Scriptures are devoutly and profoundly read. It is a process of meaning-extraction, of 
 > bringing out the sense of the Bible by means of principles Scripture itself supplies." p.209, 3) "Nonliteral methods of 
 > interpretation have been responsible for countless perversions of biblical truth."p.211
@@ -89,4 +89,4 @@ Ill.; p.208, 209, 211) may help us to better understand this problem.
 > to uninformed opinion!"
 > (Quote from veteran reporter John Lawton, age 68,
 > Speaking to the American Association of
-> Broadcast Journalists in1995)
+> Broadcast Journalists in 1995)
