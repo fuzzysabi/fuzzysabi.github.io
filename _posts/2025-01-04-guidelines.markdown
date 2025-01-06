@@ -1,8 +1,8 @@
 ---
-layout:post
+layout: post
 date: '2025-01-04'
 title: Guidelines for studying Scriptures
-tage:
+tags:
   - Blue Collar Theology
   - Pa
 
