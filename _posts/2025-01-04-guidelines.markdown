@@ -20,12 +20,12 @@ In our present cultural environment with its, "do everything you can as fast as 
 in their methods of Bible study. Unfortunately, many Christians, Sunday School teachers and even pastors are guilty of this improper type of studying. 
 If we truly value God's word we should always take the time to study it correctly, and as II Timothy 2:14-15 reminds us:
                
->               "Remind them of these things,(see verses 1-13 for context) and 
->               solemnly charge them in the presence of God not to wrangle about
->               words, which is useless, and leads to the ruin of the hearers. Be
->               diligent to present yourself approved to God as a workman who
->               does not need to be ashamed, handling accurately the word of
->               truth."
+> "Remind them of these things,(see verses 1-13 for context) and 
+> solemnly charge them in the presence of God not to wrangle about
+> words, which is useless, and leads to the ruin of the hearers. Be
+> diligent to present yourself approved to God as a workman who
+> does not need to be ashamed, handling accurately the word of
+> truth."
 
 Here are a few simple guidelines that can help in developing "accurate" Bible study methods and habits.
 
