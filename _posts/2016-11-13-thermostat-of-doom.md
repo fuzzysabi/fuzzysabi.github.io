@@ -8,6 +8,13 @@ tags:
 categories: woodworking inventions
 ---
 
+**UPDATE** After a few years of operation, the wire nuts decided they'd had enough and started to overheat. 
+Turns out wire nuts are actually terrible for wiring, and are only used because they're fast. [Lever nuts](https://www.homedepot.com/s/lever%20nut?NCNI-5)
+are actually way better for nearly all home wiring, but true crimp splices are the most reliable. After
+a couple of years as a manufacturing engineer for an automotive wiring department, I learned that the 
+non-insulated crimps with a separate piece of heat shrink are the best, as the ones with integrated heat shrink,
+or the dreaded solder splice, or the very worst "vampire-tap" will fail- in many cases before the vehicle leaves the shop!
+
 I made a thermostat nearly a year ago using an arduino pro mini, an old usb
 converter, a big relay, and a couple of sensors left over from work. it looks
 like a [bomb][ahmed], which is awesome, and it's hard coded to around 55 degrees, which
