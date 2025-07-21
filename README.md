@@ -4,6 +4,8 @@ Fuzzy Sabi: Functional storytelling
 [https://fuzzysabi.github.io]
 
 Post ideas:   
+AUS trip
+CN trip
 kitchen light   
 Oklahoma trip   
 box inventory (might need it's own repo for code)   
