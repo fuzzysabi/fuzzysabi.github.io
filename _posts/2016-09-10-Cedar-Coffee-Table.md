@@ -18,7 +18,7 @@ top to be about 24" wide.  ![hand planed][planing]
   
 ![edge joined][glue]
 
-Here's a small sample of the natural stain, iron acetate made by dissolving fine steel wool in vinegar for a few days.   ![small sample][stain] 
+Here's a small sample of the natural stain, iron acetate made by dissolving fine steel wool in vinegar for a few days. It actually dyes the wood in an accelerated form of the same thing that happens when it's left out int he elements for a few years!  ![small sample][stain] 
 
 The leg joints  were double dovetails, preventing side wobble in the table.![Leg joints][joint]
 
