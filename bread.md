@@ -23,6 +23,17 @@ Yeast|      5|0.3
 
 Bake: 20min@475F, then 20min@350F
 
+## **Light and fast Sandwich bread, 1 loaf**
+
+|Ingredient | Weight |BP|
+|---|---|--:|
+White Flour|490|80|
+Wheat Flour|120|20|
+Water|415|68|
+Salt|12|2|
+Oil|30|5|
+Molasses|30|5|
+
 ## **Hamburger Buns**
 
 |Ingredient     |Weight|
