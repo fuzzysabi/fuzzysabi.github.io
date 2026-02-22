@@ -8,18 +8,18 @@ permalink: /bread/
 # Bread Recipes
 For sourdough recipes, use commercial yeast for a more predictable (faster) rise, and adjust for the heat of the kitchen. If it's winter, add a bit more. 
 
-## **Wheat molasses Sourdough 1100g/loaf, 2 loaves** 
+## **Wheat molasses Sourdough 1200g/loaf, 2 loaves** 
 
-|Ingredient     |Weight| BP|
-|---|---|--:|
-Starter|    720|55
-Flour|      670|51
-Water|      515|39
-White Flour|285|22
-Molasses|   65|5
-Oil|        130|10
-Salt|       25|2
-Yeast|      5|0.3
+|Ingredient |Weight| BP  |
+|---        |---   | ---  |
+Starter     | 400  |   30 (included as part of flour/water)
+Wheat Flour | 460  |   50
+Water       | 660  |   65
+White Flour | 660  |   50
+Molasses    | 66   |   5
+Oil         | 130  |   10
+Salt        | 25   |   2
+Yeast       | 5    | 0.3
 
 Bake: 20min@475F, then 20min@350F
 
