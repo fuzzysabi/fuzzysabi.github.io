@@ -5,7 +5,7 @@ title: China Trip 2025, part 1: Getting there
 tags:
   - Hunan
   - Changsha
-  - 
+  - Airport
   - Vacation
 
 ---
