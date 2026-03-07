@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2025-03-07'
+date: '2026-03-07'
 title: China Trip 2025, part 1: Getting there
 tags:
   - Hunan
