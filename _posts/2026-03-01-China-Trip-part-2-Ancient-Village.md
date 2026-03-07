@@ -10,15 +10,16 @@ tags:
 
 --- 
 
-![][13]
+![Train station][13]
 
 After a thrilling yet uneventful 300kph ride on a high speed train, our
 first stop was a traditional village, considered one of the most picturesque in
 China. Home to the Miao people, they have made their traditional dress and
 dances part of a tourist destination. Prople come form all over China to get
 dressed up in traditional clothing and have a custom photo shoot with the night
-lights of the village in the backdrop: ![][8]
+lights of the village in the backdrop: 
 
+![][8]
 ![][5]
 ![][1]
 ![][12]
@@ -31,7 +32,7 @@ Grilled skewers of meat are common fare in the festive evenings ![][2]
 
 And shops for spices and herbs lined the streets ![][3] ![][11]
 
-The Miao are famous for their traditional embroidery techniques ![][4]
+The Miao minority is famous for their traditional embroidery techniques ![][4]
 
 But of course what Asia is known for across the engineering world is their solid grasp of fire-safe electrical practices: ![][6]
 
