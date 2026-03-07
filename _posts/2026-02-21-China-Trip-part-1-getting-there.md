@@ -10,7 +10,7 @@ tags:
 
 ---
 
-Jume 2025: K got a scholarship to travel China, so of course I went along! After
+June 2025: K got a scholarship to travel China, so of course I went along! After
 months of back and forth regarding passports, visas, and scheduling, we were
 finally off with our excited ariport selfie:
 
