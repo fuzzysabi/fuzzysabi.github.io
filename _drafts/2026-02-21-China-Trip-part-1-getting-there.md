@@ -40,7 +40,7 @@ and walked away when it happened again! This time I knew it had to be part of
 that switch.  Looking closer, there was a slot in what I had originally assumed
 to be an rfid switch. Leaving the card in that allowed us to use the power as
 usual. Turns out the power to the room is cut when the card is removed for more
-than about a minute, and this is standard everywhere we went
+than about a minute, and this is standard everywhere we went.
 
 ![Key Card][2]
 
