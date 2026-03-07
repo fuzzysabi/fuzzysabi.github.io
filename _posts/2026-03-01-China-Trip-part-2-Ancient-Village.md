@@ -7,7 +7,7 @@ tags:
   - FengHuang
   - River Town
   - Vacation
-
+  - China
 --- 
 
 ![Train station][13]
@@ -36,18 +36,18 @@ The Miao minority is famous for their traditional embroidery techniques ![][4]
 
 But of course what Asia is known for across the engineering world is their solid grasp of fire-safe electrical practices: ![][6]
 
-[1]: /pictures/Hunan/FirstStop/DancePerformance.webp "DancePerformance"
-[2]: /pictures/Hunan/FirstStop/FirstSkewerMeal.webp "FirstSkewerMeal"
-[3]: /pictures/Hunan/FirstStop/HerbTeaShop.webp "HerbTeaShop"
-[4]: /pictures/Hunan/FirstStop/MiaoLadyEmbroidering.webp "MiaoLadyEmbroidering"
-[5]: /pictures/Hunan/FirstStop/NightLightsOfBuildings.webp "NightLightsOfBuildings"
-[6]: /pictures/Hunan/FirstStop/ObligatoryElectrical.webp "ObligatoryElectrical"
-[7]: /pictures/Hunan/FirstStop/OpenStepsToRaisedBridge.webp "OpenStepsToRaisedBridge"
-[8]: /pictures/Hunan/FirstStop/PlayingDressUp.webp "PlayingDressUp"
-[9]: /pictures/Hunan/FirstStop/QuietStreetOvercast.webp "QuietStreetOvercast"
-[10]: /pictures/Hunan/FirstStop/RiverBoats.webp "RiverBoats"
-[11]: /pictures/Hunan/FirstStop/SpiceShop.webp "SpiceShop"
-[12]: /pictures/Hunan/FirstStop/TowerLights.webp "TowerLights"
-[13]: /pictures/Hunan/FirstStop/TrainStation.webp "TrainStation"
-[14]: /pictures/Hunan/FirstStop/TwoLayerBridge.webp "TwoLayerBridge"
-[15]: /pictures/Hunan/FirstStop/WaterLily.webp "WaterLily"
+[1]: /pictures/Hunan/FirstStop/DancePerformance.webp
+[2]: /pictures/Hunan/FirstStop/FirstSkewerMeal.webp
+[3]: /pictures/Hunan/FirstStop/HerbTeaShop.webp
+[4]: /pictures/Hunan/FirstStop/MiaoLadyEmbroidering.webp
+[5]: /pictures/Hunan/FirstStop/NightLightsOfBuildings.webp
+[6]: /pictures/Hunan/FirstStop/ObligatoryElectrical.webp
+[7]: /pictures/Hunan/FirstStop/OpenStepsToRaisedBridge.webp
+[8]: /pictures/Hunan/FirstStop/PlayingDressUp.webp
+[9]: /pictures/Hunan/FirstStop/QuietStreetOvercast.webp
+[10]: /pictures/Hunan/FirstStop/RiverBoats.webp
+[11]: /pictures/Hunan/FirstStop/SpiceShop.webp
+[12]: /pictures/Hunan/FirstStop/TowerLights.webp
+[13]: /pictures/Hunan/FirstStop/TrainStation.webp
+[14]: /pictures/Hunan/FirstStop/TwoLayerBridge.webp
+[15]: /pictures/Hunan/FirstStop/WaterLily.webp

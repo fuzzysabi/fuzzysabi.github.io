@@ -7,6 +7,7 @@ tags:
   - Changsha
   - Airport
   - Vacation
+  - China
 
 ---
 
@@ -46,8 +47,7 @@ than about a minute, and this is standard everywhere we went.
 
 
 
-
-[1]: /pictures/Hunan/GettingThere/AirportSelfie.webp "AirportSelfie"
-[2]: /pictures/Hunan/GettingThere/KeyCard.webp "KeyCard"
-[3]: /pictures/Hunan/GettingThere/LongPlane.webp "LongPlane"
-[4]: /pictures/Hunan/GettingThere/WalkinToHotel.webp "WalkinToHotel"
+[1]: /pictures/Hunan/GettingThere/AirportSelfie.webp 
+[2]: /pictures/Hunan/GettingThere/KeyCard.webp
+[3]: /pictures/Hunan/GettingThere/LongPlane.webp
+[4]: /pictures/Hunan/GettingThere/WalkinToHotel.webp
