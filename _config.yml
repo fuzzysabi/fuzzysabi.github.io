@@ -38,7 +38,8 @@ plugins:
     - jekyll-paginate
     - jekyll-sitemap
 
-paginate: 9
+paginate: 5
+show_excerpts: true
 #paginate_path: "/more/page:num"
 
 # Exclude from processing.
