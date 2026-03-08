@@ -7,7 +7,6 @@ tags:
   - FengHuang
   - River Town
 categories:
-  - Vacation
   - China
 --- 
 

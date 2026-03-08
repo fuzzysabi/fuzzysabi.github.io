@@ -8,7 +8,6 @@ tags:
   - Airport
 categories:
   - China
-  - Vacation
 
 ---
 
