@@ -5,6 +5,7 @@ date: '2023-05-08 07:00:23'
 tags:
 - linux
 - command line
+category: Linux
 ---
 
 You’re administering a \*nix server somewhere, playing with the settings, and now that you’ve figured out how to ssh into the stupid box you’re greeted with a friendly `you@server:~$` and a blinking cursor. “Great, now what?” you ask. Well, that’s why I’m here.

@@ -6,8 +6,9 @@ tags:
   - Hunan
   - Changsha
   - Airport
-  - Vacation
+categories:
   - China
+  - Vacation
 
 ---
 
