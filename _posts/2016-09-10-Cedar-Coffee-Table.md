@@ -5,7 +5,6 @@ layout: post
 tags:
 - build
 - woodworking
-
 category: woodworking
 ---
 Check out this coffee table I made for my friend Cody: ![table][final]
@@ -28,19 +27,17 @@ in from the underside, creating a stable surface. ![apron clips][clips]
 Once all the joinery was done, my daughter helped stain and oil the
 table, which turned out to be the perfect weathered color with the acetate
 stain. ![complete][complete] 
- 
 
 Two coats of tung oil was enough to make the grain pop without adding too much
 depth of finish. ![daughter][kaeli]
 
 
-[final]: /pictures/CodyCoffeeFinal.jpg
-[boards]: /pictures/CodyCoffeeboards.jpg
-[planing]: /pictures/CodyCoffeePlaning.jpg
-[glue]: /pictures/CodyCoffeeGlue.jpg
-[stain]: /pictures/CodyCoffeeStain.jpg
-[joint]: /pictures/CodyCoffeeLegJoint.jpg
-[clips]: /pictures/CodyCoffeeApron.jpg
-[kaeli]:/pictures/CodyCoffeeKaeli.jpg
-[complete]:/pictures/CodyCoffeeComplete.jpg
-[final]: /pictures/CodyCoffeeFinal.jpg
+[final]: /pictures/CodyCoffeeTable/CodyCoffeeFinal.jpg
+[boards]: /pictures/CodyCoffeeTable/CodyCoffeeboards.jpg
+[planing]: /pictures/CodyCoffeeTable/CodyCoffeePlaning.jpg
+[glue]: /pictures/CodyCoffeeTable/CodyCoffeeGlue.jpg
+[stain]: /pictures/CodyCoffeeTable/CodyCoffeeStain.jpg
+[joint]: /pictures/CodyCoffeeTable/CodyCoffeeLegJoint.jpg
+[clips]: /pictures/CodyCoffeeTable/CodyCoffeeApron.jpg
+[kaeli]:/pictures/CodyCoffeeTable/CodyCoffeeKaeli.jpg
+[complete]:/pictures/CodyCoffeeTable/CodyCoffeeComplete.jpg
