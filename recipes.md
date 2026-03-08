@@ -5,17 +5,24 @@ date: '2023-01-02 19:57:28'
 permalink: /recipes/
 ---
 
+At one point in the distant past, [Andrea Stewart](https://books.google.com/books/about/RecipeShorts_Delicious_dishes_in_140_cha.html?id=NxZlDwAAQBAJ)
+created a recipe account dedicated to creating recipes that would fit in 140
+characters. The concept of the 140 character limit has passed into lore, but I thought it was 
+brilliant, and adjusted my own recipes to fit ths format. It 
+allows me to have a single sheet of paper on the inside of a cabinet 
+holding about 30 often cited recipes. It's a little dense, but still easy to read.
+
 # **DESSERT**
 
 
-### **Chocchip cookies** 
+### **Chocolate chip cookies** 
 Cream 2 sticks(225g) buttr/370g turbinado sug; +2egg/1TH2O. Mix 315g flr/t(3.8g) soda; fold into batter. Add 345g chocchip/1t(5.4g) vanil. Form & bake 9min@375.
 ### **Molasses Cookies** 
 Crm 2 sticks(225g) butr+370g brnsug, +34g oil/147g molasses/2egg/1t(5.4g) vanil/1T(5g)H2O. Combine 625g flr+13g soda/ 5g cin/3.2g gin, 2g clove, add to mix. Chill 2hr, portion&roll in sug. form&bake 11.5min@350.
-### **PBCC Cookies** 
+### **Peanut Butter Chocolate Chip Cookies** 
 Mix 450g flr/20g bkgpdr+sug/1 stick (113g/4oz) butr. +565g brsug/1 can(450g) Skippy/225g Boiling H2O. Cool slightly; add 345g chocchip. Form & bake 11.5min@350convection.
 ### **Daffodil Cake** 
-Mix 1C white flr/+2T sug. Beat 12eggwt/ t S/ 1t crm of tartar till foamy; +C sug, beat to peaks; fold in 1t vanil/1T lem zest; +dry. Beat 6 yolk, add M-BM- mix. +altrnatng spnfls, bake 35min@375.
+Mix 1C white flr/+2T sug. Beat 12eggwt/ t S/ 1t crm of tartar till foamy; +C sug, beat to peaks; fold in 1t vanil/1T lem zest; +dry. Beat 6 yolk, add to half the mix. +altrnatng spnfls, bake 35min@375.
 ### **Muddy Buddies** 
 Mlt 1C chocchip/C buttr/1t vanil/ 1C pdrsug; +9Cchex/C pnut butr.
 ### **Peach Pi** 
@@ -27,7 +34,7 @@ Mix 8oz cold butr/12oz white flr til crumbly. Add 2--4T cold H2O till dough form
 ### **Cracker crust** 
 1C cracker crumbs/C sug/6T butr/t cinn. Bake 7min@375, chill 1hr
 ### **KrispyTreats**
-285 mallow/1 stick butr/250g krispies
+285 mallow/1 stick(4oz) butr/250g krispies
 # **BREAD**
 [Bread page](/bread.md)
 
@@ -72,7 +79,7 @@ Roux 28 butr/25 white flr, 680 milk/2 mustard/3 gar pwd/2 p/2 onion pwd. Cool to
 
 ### **Waffles** 
 Mix 240g flr/30g sug/450g buttrmilk/240g starter. Leave ovrnite. +2egg/stick (55g) mltdbuttr/8g soda. Bake on htd iron.
-### **49er Pancakes** 
+### **Pancakes (49er)** 
 480g starter/25g sug/1egg/1 stick (113g) melted butr. +8g soda/15g H2Oto leaven.
 ### **Quiche Lorraine** 
 Mix 4 egg/1C milk or cream, pour over 12bacon/8oz chz in crust pre-baked 5min. Bake 20min@400, then 35min@350.
@@ -81,4 +88,25 @@ Sift 2c flr/2t bkgpdr/1t soda&salt; +btn 2C buttrmilk/3T mltdbuttr/2 egg. Mix lu
 ### **Hummus** 
 Cook C dry chickpea, blend w/ 3 gar/C H2O/C tahine/2T lem/3T olvoil, s+p to taste.
 
-*Assumptions (unless otherwise noted): Flour: whole wheat Butter: salted Temperature: Fahrenheit*
+
+### *Assumptions (unless otherwise noted):*  
+*Flour: whole wheat*  
+*Butter: salted*  
+*Temperature: Fahrenheit*  
+*Chocolate Chips: Dark(duh)*  
+*Sourdough Starter: 100% hydration*  
+
+## _Glossary:_
+
+Abbreviation |Ingredient
+|---|---|
+|s |  salt  |
+|p  | pepper  |
+|c  | cup  |
+|t  | teaspoon  |
+|T  | tablespoon  |
+|/  | mix in the same bowl_  |
+|\+  | add to the previous batch  |
+|cum |   cumin  |
+|cin|cinnamon|
+|gin|ginger|
