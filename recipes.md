@@ -98,7 +98,7 @@ Cook C dry chickpea, blend w/ 3 gar/C H2O/C tahine/2T lem/3T olvoil, s+p to tast
 
 ## _Glossary:_
 
-Abbreviation |Ingredient
+|Abbreviation |Ingredient|
 |---|---|
 |s |  salt  |
 |p  | pepper  |
