@@ -7,7 +7,17 @@ permalink: /cv/
 
 # Jeremy "Fuzzy" Conley
 
-Innovative, skilled, and solution-oriented general engineer with a proven track record of optimizing production processes and reducing costs. Skilled in analyzing manufacturing systems and implementing improvements to increase efficiency and productivity. Productivity improvement and automation with Python and Git. Proficient in CAD software for designing and testing new equipment and processes. Proven expertise in managing cross-functional teams and collaborating with suppliers and vendors to ensure on-time delivery of high-quality products. Familiarity with Six Sigma methodologies for process improvement and cost reduction. In-depth knowledge of lean manufacturing principles and experience with ERP systems such as Oracle.
+Innovative, skilled, and solution-oriented general engineer with a proven track
+record of optimizing production processes and reducing costs. Skilled in
+analyzing manufacturing systems and implementing improvements to increase
+efficiency and productivity. Complex RF Systems design, integration, and test
+for customer satisfaction.  Productivity improvement and automation with Python
+and Git. Proficient in CAD software for designing and testing new equipment and
+processes. Proven expertise in managing cross-functional teams and collaborating
+with suppliers and vendors to ensure on-time delivery of high-quality products.
+Familiarity with Six Sigma methodologies for process improvement and cost
+reduction. In-depth knowledge of lean manufacturing principles and experience
+with ERP systems such as Oracle.
 
 ![MX64 test fixture](/pictures/connector_mx64.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -33,7 +43,7 @@ Innovative, skilled, and solution-oriented general engineer with a proven track 
 					Scheduling</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Project
 					Management</font></font></p>
-                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Root Cause Analysis</font></font></p>
+                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">RF test systems</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Machine
 					Design &amp; Automation</font></font></p>
 				</li></ul>
