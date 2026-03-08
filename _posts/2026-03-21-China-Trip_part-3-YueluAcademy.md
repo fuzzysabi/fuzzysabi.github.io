@@ -9,7 +9,6 @@ tags:
   - Hunan
 categories:
   - China
-  - Vacation
 --- 
 
 Our first day after meeting the group was to go visit Hunan University,
