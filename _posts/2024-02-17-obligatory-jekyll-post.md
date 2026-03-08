@@ -5,6 +5,7 @@ date: '2024-02-17 21:00:00'
 tags: 
 - linux
 - meta
+category: Linux
 ---
 
 

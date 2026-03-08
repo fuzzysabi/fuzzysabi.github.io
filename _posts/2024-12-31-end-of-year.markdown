@@ -4,6 +4,7 @@ title: End of year
 date: '2024-12-31 12:00:00'
 tags:
  - reflections
+category: essay
 ---
 
 Another year here, and more to look forward to. New roles for me, and some new features to our life. New romances, new responsibilities, new things to learn. 

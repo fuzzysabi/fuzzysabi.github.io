@@ -6,6 +6,7 @@ tags:
   - Hunan
   - FengHuang
   - River Town
+categories:
   - Vacation
   - China
 --- 

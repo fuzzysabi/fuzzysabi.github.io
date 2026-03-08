@@ -5,6 +5,7 @@ date: '2019-06-01 15:00:00'
 tags:
 - pa
 - BlueCollarTheology
+category: essay
 
 ---
 

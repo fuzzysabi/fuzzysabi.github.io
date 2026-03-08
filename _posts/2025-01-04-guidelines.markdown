@@ -5,7 +5,8 @@ title: Guidelines For Studying Scriptures
 tags:
   - Blue Collar Theology
   - Pa
-
+categories:
+  - essay
 ---
 
 For my birthday I'd like to have another "guest post" from my dad. His essays were essentially a cross between a zine and a blog. He'd print them on our old dot matrix and hand them 
