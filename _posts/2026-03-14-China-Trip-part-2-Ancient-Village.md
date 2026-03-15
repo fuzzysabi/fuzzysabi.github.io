@@ -1,11 +1,11 @@
 ---
 layout: post
 date: '2026-03-14'
-title: China Trip 2025, part 2, Ancient Village
+title: 'China Trip 2025, part 2, Ancient Village'
 tags:
   - Hunan
   - FengHuang
-  - River Town
+  - 'River Town'
 categories:
   - China
 --- 
