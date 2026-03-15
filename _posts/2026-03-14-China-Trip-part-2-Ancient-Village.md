@@ -10,6 +10,8 @@ categories:
   - China
 --- 
 
+A day on the train
+
 ![Train station][13]
 
 After a thrilling yet uneventful 300kph ride on a high speed train, our
