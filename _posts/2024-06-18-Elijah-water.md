@@ -30,5 +30,6 @@ could probably have been beaten for losing a drop of the life-giving liquid,
 being ordered to pour it over the altar three times. What a powerful symbol of
 how much we ought to give, and how much He deserves.
 
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9NNMPbVWMQ?si=Ebg8HpPl4pKrAqfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
