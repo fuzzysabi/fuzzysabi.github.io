@@ -27,7 +27,7 @@ Our tour guide, the director of the college showed us around
 ![][3]
 All the footers of the pillars are kept off the ground to prevent rot
 
-![][4]
+![][4]  
 The study hall/library of Yuelu
 
 ![][5]
