@@ -34,7 +34,7 @@ def make_relative_links(files, md_path):
     for i, file_path in enumerate(files, start=1):
         rel = os.path.relpath(file_path, md_dir).replace("\\", "/")
         name = os.path.splitext(os.path.basename(file_path))[0]
-        lines.append(f'[{i}]: {rel} "{name}"')
+        lines.append(f'[{i}]: {rel}')
 
     return "\n".join(lines) + "\n"
 

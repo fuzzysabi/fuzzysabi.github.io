@@ -8,9 +8,16 @@ tags:
 category: repair
 ---
 
+So, the other day I was finally installing the trim around the windows, when the
+drywall rasp I was using slipped out of my hand and fell to the floor. For a
+construction-grade tool, this wouldn't have been a problem. However, for this
+particular sloppy chunk of yak dung, the plastic screw which holds the blade in
+snapped in half. While Stanley has a great warranty, I would in fact have been
+stuck with a shiny new piece of said dung, and that's just unacceptable. So, I
+rage-fixed it.
+
 ![](/pictures/IMG_1749.JPG)
 
-So, the other day I was finally installing the trim around the windows, when the drywall rasp I was using slipped out of my hand and fell to the floor. For a construction-grade tool, this wouldn't have been a problem. However, for this particular sloppy chunk of yak dung, the plastic screw which holds the blade in snapped in half. While Stanley has a great warranty, I would in fact have been stuck with a shiny new piece of said dung, and that's just unacceptable. So, I rage-fixed it.
 
 First, I grabbed a piece of scrap hardwood, a bolt, and a matching threaded insert.
 
