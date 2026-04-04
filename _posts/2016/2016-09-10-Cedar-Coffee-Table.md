@@ -7,7 +7,9 @@ tags:
 - woodworking
 category: woodworking
 ---
-Check out this coffee table I made for my friend Cody: ![table][final]
+Check out this coffee table I made for my friend Cody: 
+
+![table][final]
 
 It started out as cedar fence boards  which I got from the orange
 store. ![cedar fence boards][boards]  

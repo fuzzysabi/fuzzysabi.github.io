@@ -6,9 +6,9 @@ tags: garden
 category: garden
 ---
 
-![](/pictures/20190610_091036_HDR.jpg)
-
 Woot! These caught my eye as I was walking past the garden, a nice little handful of strawberries for the plucking.
+
+![](/pictures/20190610_091036_HDR.jpg)
 
 In other news, Elli has suddenly figured out how to ride her bike!
 
