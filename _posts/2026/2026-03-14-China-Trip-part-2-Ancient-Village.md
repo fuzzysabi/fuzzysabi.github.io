@@ -17,7 +17,7 @@ A day on the train
 After a thrilling yet uneventful 300kph ride on a high speed train, our
 first stop was a traditional village, considered one of the most picturesque in
 China. Home to the Miao people, they have made their traditional dress and
-dances part of a tourist destination. Prople come form all over China to get
+dances part of a tourist destination. People come from all over China to get
 dressed up in traditional clothing and have a custom photo shoot with the night
 lights of the village in the backdrop: 
 
