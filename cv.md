@@ -43,7 +43,7 @@ with ERP systems such as Oracle.
 					Scheduling</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0; margin-bottom: 0in"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Project
 					Management</font></font></p>
-                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">RF test systems</font></font></p>
+                    </li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">RF test systems automation</font></font></p>
 					</li><li><p style="orphans: 0; widows: 0"><font face="Helvetica, serif"><font size="2" style="font-size: 10pt">Machine
 					Design &amp; Automation</font></font></p>
 				</li></ul>
@@ -69,7 +69,8 @@ with ERP systems such as Oracle.
 
 #### Engineer/Technician 
 
-- Working with Keysight ADCS team
+- Working with Keysight's Aerospace and Defense Custom Systems team
+- Automation platforms for SCPI, PXI, and LAN connected instrumentation
 - Design, document, test and troubleshoot custom Aerospace and Defense test and calibration systems to ensure reliability and consistency across varied platforms
 - Developed internal automation tooling to reduce repetitive tasks
 - Electrical Design for manufacturing
