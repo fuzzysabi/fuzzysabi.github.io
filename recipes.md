@@ -105,7 +105,7 @@ Cook C dry chickpea, blend w/ 3 gar/C H2O/C tahine/2T lem/3T olvoil, s+p to tast
 |c  | cup  |
 |t  | teaspoon  |
 |T  | tablespoon  |
-|/  | mix in the same bowl_  |
+|/  | mix in the same bowl  |
 |\+  | add to the previous batch  |
 |cum |   cumin  |
 |cin|cinnamon|
