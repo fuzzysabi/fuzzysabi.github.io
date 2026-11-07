@@ -26,3 +26,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", ">= 1.8.2"
 gem "rexml", ">= 3.3.9"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
