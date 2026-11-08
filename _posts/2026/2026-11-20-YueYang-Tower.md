@@ -1,11 +1,12 @@
 ---
 layout: post
 date: '2026-11-20'
-title: 'China Trip 2025, part 4, YueYang Tower'
+title: 'China Trip 2025, Part 4, YueYang Tower'
 tags:
-  - 'Yueyang Tower'
+  - Yueyang-Tower
   - Architecture
   - Design
+  - China
   - Hunan
 categories:
   - China

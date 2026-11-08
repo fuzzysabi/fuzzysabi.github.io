@@ -63,11 +63,11 @@ with ERP systems such as Oracle.
 
 ![](/pictures/arduinocabletest.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-## Professional Experience
+# Professional Experience
 
-### MM Solutions, Loveland, CO Jan 2024 - Present
+## MM Solutions, Loveland, CO Jan 2024 - Present
 
-#### Engineer/Technician 
+### Engineer/Technician 
 
 - Working with Keysight's Aerospace and Defense Custom Systems team
 - Automation platforms for SCPI, PXI, and LAN connected instrumentation
@@ -76,9 +76,9 @@ with ERP systems such as Oracle.
 - Electrical Design for manufacturing
 - Instrumental in selecting new ECAD software for production
 
-### Lighting eMotors, Loveland, CO  June 2019 – December 2023 
+## Lighting eMotors, Loveland, CO  June 2019 – December 2023 
 
-#### Research and Development Technician II
+### Research and Development Technician II
 
 - Supervise creation and execution of new wiring harness designs for testing along with maintaining and driving 3D print services for engineering team. Facilitate research, management, and ordering of proper tooling as per laboratory requirements. Conceptualize, design, fabricate, and program fixturing for all wiring harness designs as well as developing new processes and procedures to ensure product reliability. Control stock, inventory wiring, and electronic parts for rapid prototyping for over 100 engineers. Administer and document engineering changes and updates to alert floor personnel. Lead instructions for wiring team on proper procedure, inspection practices, and skill set as well as liaising with engineering team to streamline and clarify documentation for better spin-up of new designs.
 - Successfully decreased harness manufacturing time by 50% by developing low voltage wiring test platform and procedures.

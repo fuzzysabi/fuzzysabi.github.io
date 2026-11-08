@@ -3,7 +3,8 @@ layout: post
 date: '2026-03-21'
 title: 'China Trip 2025, part 3, Yuelu Academy'
 tags:
-  - 'Yuelu Academy'
+  - China
+  - Yuelu-Academy
   - Architecture
   - Design
   - Hunan

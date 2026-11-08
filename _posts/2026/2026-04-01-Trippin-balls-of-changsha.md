@@ -3,6 +3,7 @@ layout: post
 date: '2026-04-01'
 title: 'The Trippin Balls of ChangSha'
 tags:
+    - China
     - Hunan
     - funny
     - changsha

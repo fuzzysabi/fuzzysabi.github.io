@@ -4,7 +4,7 @@ title: Help! I'm on the Command Line!
 date: '2023-05-08 07:00:23'
 tags:
 - linux
-- command line
+- commandline
 category: Linux
 ---
 

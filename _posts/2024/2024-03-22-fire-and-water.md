@@ -4,9 +4,7 @@ title: 'Fire and Water'
 date: '2024-03-23 03:00:00'
 tags:
 - essays
-- BCT
-- Numbers
-- Old Testament
+- OldTestament
 category: essay
 ---
 

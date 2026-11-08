@@ -3,8 +3,9 @@ layout: post
 date: '2026-03-07'
 title: 'China Trip 2025, part 1: Getting there'
 tags:
+  - China
   - Hunan
-  - Changsha
+  - changsha
   - Airport
 categories:
   - China

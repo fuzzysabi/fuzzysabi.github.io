@@ -4,7 +4,7 @@ title: Processes, multiplexers and scripts, oh my!
 date: '2023-05-11 13:36:03'
 tags:
 - linux
-- command line
+- commandline
 category: Linux
 ---
 
