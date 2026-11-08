@@ -11,7 +11,7 @@ tags:
 categories:
   - China
 --- 
-Yueyang tower is a 15th century naval base which was transformed over time into the 
+Yueyang tower is a 15th century naval base which was transformed over time into the
 destination for poets and scholars across China for it's tranquil lakeside view
 
 The view of the lake from an upper window:
@@ -30,13 +30,12 @@ This might be a cat?
 [SECRET TUNNEL!](https://www.youtube.com/shorts/N3U8kcjGALU)
 ![tunnel][7]
 
-After this tour, we went into the little preserved village across the square 
+After this tour, we went into the little preserved village across the square
 for some skewers
 ![skewers][10]
 
 K got a sugar crafted horse which was really neat
 ![sugar crafting][3]
-
 
 [1]: ../../pictures/Hunan/YueYangTower/PXL_20250609_070634393.webp
 [2]: ../../pictures/Hunan/YueYangTower/PXL_20250609_070332244.webp

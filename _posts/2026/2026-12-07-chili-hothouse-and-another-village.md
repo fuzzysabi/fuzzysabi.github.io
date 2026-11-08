@@ -12,7 +12,7 @@ categories:
 ---
 We got to see the chili research facility of Hunan University, which also
 functions as a commercial greenhouse. This was in conjunction with some locations
-in the Tibetan plateau in an effort to see if they can grow in greenhouses with 
+in the Tibetan plateau in an effort to see if they can grow in greenhouses with
 an extended season.
 
 - A Very long greenouse- we couldn't see the end
