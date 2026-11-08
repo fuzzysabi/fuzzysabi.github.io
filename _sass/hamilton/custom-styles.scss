@@ -1,13 +1,30 @@
 // Placeholder to allow customizing styles.
 
-    .post-excerpt {
-      margin-top: $spacing-unit / 2;
-        display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        margin: 0;
+.post-excerpt {
+  margin-top: $spacing-unit / 2;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin: 0;
 
-      p {
-        margin-bottom: 0;
-      }}
+  p {
+    margin-bottom: 0;
+  }}
+ul.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li { margin: 0; text-align: center; }
+  p { margin: 0.25rem 0; }
+  img { width: 100%; height: auto; border-radius: 4px; }
+}
+
+@media (max-width: 600px) {
+  ul.gallery { grid-template-columns: 1fr; }
+}
+ul.gallery.two-col { grid-template-columns: repeat(2, 1fr); }
