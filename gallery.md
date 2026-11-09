@@ -6,10 +6,10 @@ permalink: /gallery/
 [//]: # (gallery mode is taken by the tag in the last line, moves this into a responsive picture gallery)
 
 - Timber Frame Bunk Bed with shelving
-    ![Timber frame bunk bed](/pictures/bunkbed/IMG_1303.jpg)
+    ![Timber frame bunk bed](/pictures/bunkbed/IMG_1303.webp)
 
 - A Table for Cody 
-    ![Cody's Table](/pictures/CodyCoffeeTable/CodyCoffeeFinal.jpg)
+    ![Cody's Table](/pictures/CodyCoffeeTable/CodyCoffeeFinal.webp)
 
 - Pole lathe
     ![Pole lathe](/pictures/lathe.webp)
