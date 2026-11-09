@@ -19,7 +19,7 @@ Familiarity with Six Sigma methodologies for process improvement and cost
 reduction. In-depth knowledge of lean manufacturing principles and experience
 with ERP systems such as Oracle.
 
-![MX64 test fixture](/pictures/connector_mx64.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![MX64 test fixture](/pictures/connector_mx64.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
@@ -61,7 +61,7 @@ with ERP systems such as Oracle.
 		</tr>
 	</tbody></table>
 
-![](/pictures/arduinocabletest.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![](/pictures/arduinocabletest.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
 # Professional Experience
 

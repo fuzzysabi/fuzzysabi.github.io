@@ -16,22 +16,22 @@ snapped in half. While Stanley has a great warranty, I would in fact have been
 stuck with a shiny new piece of said dung, and that's just unacceptable. So, I
 rage-fixed it.
 
-![](/pictures/IMG_1749.JPG)
+![](/pictures/IMG_1749.webp)
 
 
 First, I grabbed a piece of scrap hardwood, a bolt, and a matching threaded insert.
 
 Drill out the hole, and mark the appropriate shape
 
-![](/pictures/IMG_1748.JPG)
+![](/pictures/IMG_1748.webp)
 
 Plane the front angle, insert the threaded...er...insert, chisel the angle for the blade hook and test fit and file accordingly
 
-![](/pictures/IMG_1751.JPG)
+![](/pictures/IMG_1751.webp)
 
 Perfect. Rage-fix time: 15 minutes. Less time than going back to the store.
 
-![](/pictures/IMG_1756.JPG)
+![](/pictures/IMG_1756.webp)
 
 (originally published on my blog Cookies and Napalm on 9/19/15)
 

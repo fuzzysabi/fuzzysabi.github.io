@@ -13,12 +13,12 @@ Turns out wire nuts are actually terrible for wiring, and are only used because 
 are actually way better for nearly all home wiring, but true crimp splices are the most reliable. After
 a couple of years as a manufacturing engineer for an automotive wiring department, I learned that the 
 non-insulated crimps with a separate piece of heat shrink are the best, as the ones with integrated heat shrink,
-or the dreaded solder splice, or the very worst "vampire-tap" will fail- in many cases before the vehicle leaves the shop!
+the dreaded solder splice, or the very worst "vampire-tap" will fail- in many cases before the vehicle leaves the shop!
 
 I made a thermostat nearly a year ago using an arduino pro mini, an old usb
 converter, a big relay, and a couple of sensors left over from work. it looks
 like a [bomb][ahmed], which is awesome, and it's hard coded to around 55 degrees, which
-is perfect for my shop. ![thermostat](/pictures/thermostat.jpg){:rotate(80deg)}
+is perfect for my shop. ![thermostat](/pictures/thermostat.webp)
 
 This has worked flawlessly for a long time now without any interaction from me
 to keep my glue from freezing up and my fingers working even in the coldest of
@@ -27,8 +27,10 @@ cannot keep up completely without a supplemental heater when the outside
 temperature is below 0°F. I know, northern hemisphere first world problems, but
 what can you do?
 
+<details>
+<summary> Arduino Code </summary>
 
-
+```arduino
       //Thermostat, by fuzzy
       //turns on/off a relay based on a preset value.
 
@@ -183,6 +185,7 @@ what can you do?
       a = a/10;
       return a;
        }
-
+```
+</details>
 
 [ahmed]: https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident

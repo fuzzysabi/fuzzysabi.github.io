@@ -12,14 +12,14 @@ permalink: /gallery/
     ![Cody's Table](/pictures/CodyCoffeeTable/CodyCoffeeFinal.jpg)
 
 - Pole lathe
-    ![Pole lathe](/pictures/lathe.jpg)
+    ![Pole lathe](/pictures/lathe.webp)
 
 - LED Shop light
-    ![LED shop light](/pictures/shoplight1.jpg)
+    ![LED shop light](/pictures/shoplight1.webp)
 
 - Ring Board
-    ![Ring Board](/pictures/ringboard2.jpg)
+    ![Ring Board](/pictures/ringboard2.webp)
 
 - Mickey stencil cake
-    ![Mickey cake](/pictures/mickeycake180.jpg)
+    ![Mickey cake](/pictures/mickeycake180.webp)
 {: .gallery}

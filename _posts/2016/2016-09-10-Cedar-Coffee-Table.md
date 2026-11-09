@@ -34,12 +34,12 @@ Two coats of tung oil was enough to make the grain pop without adding too much
 depth of finish. ![daughter][kaeli]
 
 
-[final]: /pictures/CodyCoffeeTable/CodyCoffeeFinal.jpg
-[boards]: /pictures/CodyCoffeeTable/CodyCoffeeboards.jpg
-[planing]: /pictures/CodyCoffeeTable/CodyCoffeePlaning.jpg
-[glue]: /pictures/CodyCoffeeTable/CodyCoffeeGlue.jpg
-[stain]: /pictures/CodyCoffeeTable/CodyCoffeeStain.jpg
-[joint]: /pictures/CodyCoffeeTable/CodyCoffeeLegJoint.jpg
-[clips]: /pictures/CodyCoffeeTable/CodyCoffeeApron.jpg
-[kaeli]:/pictures/CodyCoffeeTable/CodyCoffeeKaeli.jpg
-[complete]:/pictures/CodyCoffeeTable/CodyCoffeeComplete.jpg
+[final]: /pictures/CodyCoffeeTable/CodyCoffeeFinal.webp
+[boards]: /pictures/CodyCoffeeTable/CodyCoffeeboards.webp
+[planing]: /pictures/CodyCoffeeTable/CodyCoffeePlaning.webp
+[glue]: /pictures/CodyCoffeeTable/CodyCoffeeGlue.webp
+[stain]: /pictures/CodyCoffeeTable/CodyCoffeeStain.webp
+[joint]: /pictures/CodyCoffeeTable/CodyCoffeeLegJoint.webp
+[clips]: /pictures/CodyCoffeeTable/CodyCoffeeApron.webp
+[kaeli]:/pictures/CodyCoffeeTable/CodyCoffeeKaeli.webp
+[complete]:/pictures/CodyCoffeeTable/CodyCoffeeComplete.webp

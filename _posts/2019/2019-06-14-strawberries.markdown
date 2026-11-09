@@ -8,8 +8,8 @@ category: garden
 
 Woot! These caught my eye as I was walking past the garden, a nice little handful of strawberries for the plucking.
 
-![](/pictures/20190610_091036_HDR.jpg)
+![](/pictures/20190610_091036_HDR.webp)
 
 In other news, Elli has suddenly figured out how to ride her bike!
 
-![](/pictures/elli-roated-2.jpg)
+![](/pictures/elli-roated-2.webp)

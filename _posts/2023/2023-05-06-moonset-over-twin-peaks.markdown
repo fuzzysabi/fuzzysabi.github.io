@@ -8,4 +8,4 @@ tags:
 ---
 Neat picture to line up on my way to work this morning  
 
-![](/pictures/20230407_065845.jpg)
+![](/pictures/20230407_065845.webp)
