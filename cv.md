@@ -61,7 +61,7 @@ with ERP systems such as Oracle.
 		</tr>
 	</tbody></table>
 
-![](/pictures/arduinocabletest.webp){:style="display:block; margin-left:auto; margin-right:auto"}
+![Custom cable test PCBA for up to 52 end points](/pictures/arduinocabletest.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
 # Professional Experience
 
@@ -71,8 +71,12 @@ with ERP systems such as Oracle.
 
 - Working with Keysight's Aerospace and Defense Custom Systems team
 - Automation platforms for SCPI, PXI, and LAN connected instrumentation
-- Design, document, test and troubleshoot custom Aerospace and Defense test and calibration systems to ensure reliability and consistency across varied platforms
-- Developed internal automation tooling to reduce repetitive tasks
+- Design, document, test and troubleshoot custom Aerospace and Defense test and 
+calibration systems to ensure reliability and consistency across varied platforms
+- Set up static routed networks in air-gapped systems to ensure reliable instrument
+ communication within the test stand
+- Developed internal SCPI automation tooling to reduce repetitive tasks
+- Architected custom Python APIs for instrument communication
 - Electrical Design for manufacturing
 - Instrumental in selecting new ECAD software for production
 
@@ -136,21 +140,23 @@ hydraulic failures.
   <tr>
     <th class="tg-o8ye"><span style="font-weight:bold">Electrical:</span></th>
     <th class="tg-8hko">
-		Automotive Wiring and Manufacturing, IPC/WHMA-620, 110v, 220v, Three-phase AC
+		Automation and test design, Test fixture assembly, Wiring and Harness
+		Manufacturing, IPC/WHMA-620, RF systems design and test, 110v, 220v, Three-phase AC
 		Motors, DC Systems, PIC, and ATMEL Microprocessors</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-o8ye">Tooling:</td>
-    <td class="tg-8hko">Python,
+    <td class="tg-8hko">
+			Python, SCPI, GPIB, Powershell,
 			Power Automate, C++, Bash, Vim, LaTeX Typesetting, FreeCAD,
 			OpenSCAD, KICAD ECAD suite, MS Office Suite, Linux, Ubuntu,
-			Debian, Windows 7 and 10, Welding: GTAW, SMAW, MIG, GD&amp;T</td>
+			Debian, Windows 7/10/11, Welding: GTAW, SMAW, MIG, GD&amp;T</td>
   </tr>
   <tr>
     <td class="tg-o8ye">Hardware</td>
-    <td class="tg-8hko">Raspberry Pi, Arduino, Electromagnetic Relays, Modix Big 60 dual head FDM Printer, Control Panel Assembly</td>
+    <td class="tg-8hko">RF Network analyzer, Signal Generator, Oscilloscope, PXI systems, ESP32, Raspberry Pi, Arduino, LAN switching/networking, Electromagnetic Relays, Modix Big 60 dual head FDM Printer, Control Panel Assembly</td>
   </tr>
 </tbody>
 </table>
