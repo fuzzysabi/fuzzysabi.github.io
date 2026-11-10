@@ -80,23 +80,39 @@ with ERP systems such as Oracle.
 
 ### Research and Development Technician II
 
-- Supervise creation and execution of new wiring harness designs for testing along with maintaining and driving 3D print services for engineering team. Facilitate research, management, and ordering of proper tooling as per laboratory requirements. Conceptualize, design, fabricate, and program fixturing for all wiring harness designs as well as developing new processes and procedures to ensure product reliability. Control stock, inventory wiring, and electronic parts for rapid prototyping for over 100 engineers. Administer and document engineering changes and updates to alert floor personnel. Lead instructions for wiring team on proper procedure, inspection practices, and skill set as well as liaising with engineering team to streamline and clarify documentation for better spin-up of new designs.
-- Successfully decreased harness manufacturing time by 50% by developing low voltage wiring test platform and procedures.
-- Instrumental in release of eight prototype product lines for EV market.
+- Supervise creation and execution of new wiring harness designs for testing
+along with maintaining and driving 3D print services for engineering team.  
+- Facilitate research, management, and ordering of proper tooling as per
+laboratory requirements. 
+- Conceptualize, design, fabricate, and program fixturing
+for all wiring harness designs as well as developing new processes and
+procedures to ensure product reliability.
+- Control stock, inventory wiring and electronic parts for rapid prototyping for over 100 engineers.
+- Administer and document engineering changes and updates to alert floor personnel.
+- Lead instructions for wiring team on proper procedure, inspection practices, and
+skill set as well as liaising with engineering team to streamline and clarify
+documentation for better spin-up of new designs.  
+- Successfully decreased harness manufacturing time by 50% by developing low voltage wiring test 
+platform and procedures.  
+- Instrumental in release of eight prototype product lines for EV market.  
 - Reduced failure rates by 75% through creating high-voltage test procedures for manufacturing.
 
 ## Accessible Systems, Greeley, CO  2018 – 2019
 
 ### Service Manager
 
-- Facilitated new installations and repairs scheduling along with delivering, assembling, and installing stair lifts and vertical platform lifts. Developed home improvements for accessibility including grab bars and wheelchair ramps. Mentored and trained new technicians.
+- Facilitated new installations and repairs scheduling along with delivering, assembling, and installing stair lifts and vertical platform lifts.
+- Developed home improvements for accessibility including grab bars and wheelchair ramps.
+- Mentored and trained new technicians.
 - Spearheaded installation of 36 ceiling lifts for new retirement complex building in Longmont, CO.
 
 ## Aqua Spas, Ft. Collins, CO  2007 – 2018
 
 ### Field Service Manager
 
-- Led diagnosis and troubleshooting of AC/DC electrical systems, motor faults, and hydraulic failures. Delivered training to new technicians and support for on-site customer service and instruction.
+- Led diagnosis and troubleshooting of AC/DC electrical systems, motor faults, and 
+hydraulic failures.
+- Delivered training to new technicians and support for on-site customer service and instruction.
 - Successfully delivered resolution to over 11K customers over 11-year period.
 
 ## Additional Experience

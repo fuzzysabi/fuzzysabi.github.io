@@ -1,63 +1,102 @@
+---
+date: 2027-01-30
+title: Funny signs in China
+layout: post
+tags:
+- humor
+- China
+category: China2025
+---
+Mistranslation is hilarious, but some of these are so bad as to make you wonder
+if you're having a stroke!
 
-![][1]
-![][2]
-![][3]
-![][4]
-![][5]
-![][6]
-![][7]
-![][8]
-![][9]
-![][10]
-![][11]
-![][12]
-![][13]
-![][14]
-![][15]
-![][16]
-![][17]
-![][18]
-![][19]
-![][20]
-![][21]
-![][22]
-![][23]
-![][24]
-![][25]
-![][26]
-![][27]
-![][28]
-![][29]
-![][30]
-![][31]
-![][32]
-![][33]
-![][34]
-![][35]
-![][36]
-![][37]
-![][38]
-![][39]
-![][40]
-![][41]
-![][43]
-![][44]
+- Not a theorem but the truth!
+    ![][1]
+- 'Twould be a sticky one at that!
+    ![][2]
+- A southern suggestion?
+    ![][3]
+- Mall witches
+    ![][4]
+- Just...wow. No kindling? How are we going to get to high temperatures?
+    ![][5]
+- yes, a husky themed coffee bar!
+    ![][7]
+- Profess your excellency seat?
+    ![][9]
+- It's only mushrooms
+    ![][10]
+- Rock...Star?
+    ![][12]
+- No slapstick? boo
+    ![][13]
+- This was in a bathroom, no idea
+    ![][16]
+- Looks like the set of Portal
+    ![][17]
+- Whoo indeed
+    ![][18]
+- I'm stuck!
+    ![][19]
+- Repent, ye moose!
+    ![][20]
+- No lemons in my eyelashes please
+    ![][21]
+- Only you can prevent ancient village fires
+    ![][22]
+- 'nuff said
+    ![][23]
+- The beatings will continue...elsewhere
+    ![][24]
+- I can't feel my face
+    ![][25]
+- If you're gonna slip:
+    ![][26]
+- No thanks, I'll do that myself
+    ![][27]
+- Hitchhiker's guide fans?
+    ![][28]
+- Yeah, I like spring better while holding my foot
+    ![][29]
+- MMM, Pancakes
+    ![][30]
+- A claw machine of live goldfish- only in China
+    ![][31]
+- Hey! We're trying to look civilized, stop peeing on the floor
+    ![][32]
+- Harsh
+    ![][33]
+- [No Slapping](https://www.youtube.com/watch?v=B6MhttastTI)
+    ![][34]
+- (insert wilhelm scream here)
+    ![][35]
+- AUS shaped LetterBarf
+    ![][36]
+- One little piggy went to market, the rest went to get on the subway?
+    ![][37]
+- ![][38]
+- Don't call, they know you're coming
+    ![][39]
+- Oh, hey look
+    ![][40]
+- Only you can prevent public idiocy
+    ![][41]
+- Eew?
+    ![][43]
+- Forget your brain on drugs, we have
+    ![][44]
+{: .gallery .two-col}
 
 [1]: /pictures/Hunan/FunnySigns/PXL_20250615_055037424.webp
 [2]: /pictures/Hunan/FunnySigns/PXL_20250614_052909076.webp
 [3]: /pictures/Hunan/FunnySigns/PXL_20250608_052456355.webp
 [4]: /pictures/Hunan/FunnySigns/PXL_20250616_071413924.webp
 [5]: /pictures/Hunan/FunnySigns/PXL_20250606_064506381.webp
-[6]: /pictures/Hunan/FunnySigns/PXL_20250608_113555759.webp
 [7]: /pictures/Hunan/FunnySigns/PXL_20250605_074450376.webp
-[8]: /pictures/Hunan/FunnySigns/PXL_20250615_025031981.webp
 [9]: /pictures/Hunan/FunnySigns/PXL_20250610_114039168.webp
 [10]: /pictures/Hunan/FunnySigns/PXL_20250615_053240153.webp
-[11]: /pictures/Hunan/FunnySigns/PXL_20250616_065833546.webp
 [12]: /pictures/Hunan/FunnySigns/PXL_20250615_073441787.webp
 [13]: /pictures/Hunan/FunnySigns/PXL_20250614_042124110.webp
-[14]: /pictures/Hunan/FunnySigns/PXL_20250616_114035041.webp
-[15]: /pictures/Hunan/FunnySigns/PXL_20250612_051749179.webp
 [16]: /pictures/Hunan/FunnySigns/PXL_20250613_020141096.webp
 [17]: /pictures/Hunan/FunnySigns/PXL_20250606_063350895.webp
 [18]: /pictures/Hunan/FunnySigns/PXL_20250615_075825155.webp
