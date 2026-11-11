@@ -15,3 +15,8 @@
   url: /categories/
 - title: Tags
   url: /tags/
+- title: Widgets
+  url: /widgets/
+  sublinks:
+    - title: Splice Calculator
+      url: /splice-calculator/
