@@ -11,6 +11,7 @@ Includes sourdough if you've got it, this is my basic weekly long sandwich loaf
 of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?th=1), 
 12 1/2 x 5 1/2 (about 1-1/2 times longer than a normal loaf pan).
 
+
 <div id="bp-calc">
   <style>
     #bp-calc { max-width: 560px; margin: 0 auto; font-family: inherit; line-height: 1.4; }
@@ -45,6 +46,8 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
     #bp-calc .bp-warn { font-size: .85rem; color: #b45309; margin: .3rem 0; }
     @media (prefers-color-scheme: dark) { #bp-calc .bp-warn { color: #fbbf24; } }
   </style>
+
+  <div id="bp-presets" aria-label="Recipe presets"></div>
 
   <div class="bp-top">
     <label>Dough weight per piece (g)
@@ -98,16 +101,35 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
 
   <script>
   (function () {
-    var flours = [
-      { name: 'Wheat Flour', pct: 50 },
-      { name: 'White flour', pct: 50 }
+    // ---- PRESETS: add your own recipes here --------------------------
+    // Percentages are of total flour weight. Mark the water row with water: true.
+    // Leave out "sd" for no sourdough. The first preset loads when the page opens.
+    var presets = [
+      {
+        name: 'Molasses Wheat',
+        total: 1500, pieces: 1,
+        flours: [{ name: 'Wheat Flour', pct: 50 }, { name: 'White flour', pct: 50 }],
+        others: [
+          { name: 'Water', pct: 65, water: true },
+          { name: 'Fat', pct: 10 },
+          { name: 'Sugar', pct: 5 },
+          { name: 'Salt', pct: 2 }
+        ],
+        sd: { pct: 30, hyd: 100 }
+      },
+//      {
+//        name: 'Basic dough',
+//        total: 1000, pieces: 1,
+//        flours: [{ name: 'Flour', pct: 100 }],
+//        others: [
+//          { name: 'Water', pct: 65, water: true },
+//          { name: 'Salt', pct: 2 },
+//          { name: 'Fat', pct: 10 }
+//        ]
+//      }
     ];
-    var others = [
-      { name: 'Water', pct: 65, water: true },
-      { name: 'Fat', pct: 10 },
-      { name: 'Molasses', pct: 5 },
-      { name: 'Salt', pct: 2 }
-    ];
+    // -------------------------------------------------------------------
+    var flours = [], others = [];
     var $ = function (id) { return document.getElementById(id); };
     var gEls = [];   // output elements, rebuilt on render
 
@@ -220,7 +242,30 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
       $(id).addEventListener('input', update);
       $(id).addEventListener('change', update);
     });
-    render();
+    function copy(list) { return list.map(function (x) { return JSON.parse(JSON.stringify(x)); }); }
+
+    function loadPreset(p) {
+      $('bp-total').value = p.total;
+      $('bp-pieces').value = p.pieces || 1;
+      flours = copy(p.flours);
+      others = copy(p.others);
+      $('bp-sd-on').checked = !!p.sd;
+      if (p.sd) {
+        $('bp-sd-pct').value = p.sd.pct;
+        $('bp-sd-hyd').value = p.sd.hyd || 100;
+      }
+      render();
+    }
+
+    var presetHost = $('bp-presets');
+    presets.forEach(function (p) {
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'bp-btn'; b.textContent = p.name;
+      b.onclick = function () { loadPreset(p); };
+      presetHost.appendChild(b);
+    });
+
+    loadPreset(presets[0]);
   })();
   </script>
 </div>
