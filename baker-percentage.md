@@ -112,7 +112,7 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
         others: [
           { name: 'Water', pct: 65, water: true },
           { name: 'Fat', pct: 10 },
-          { name: 'Sugar', pct: 5 },
+          { name: 'Molasses', pct: 5 },
           { name: 'Salt', pct: 2 }
         ],
         sd: { pct: 30, hyd: 100 }
