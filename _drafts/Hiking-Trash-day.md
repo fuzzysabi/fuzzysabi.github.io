@@ -1,21 +1,48 @@
+---
+date: 2027-02-14
+title: China Trip Part XX Valentine's altitude and a trash day
+layout: post
+tags:
+- Recycling
+- China
+category: China2025
+---
+We had a little hike to the top of a mountain, the highest point in the province. Between the heat and humidity it was tough to keep a slow enough pace to not overheat.
 
-![][1]
-![][2]
-![][3]
-![][4]
-![][5]
-![][6]
-![][7]
-![][8]
-![][9]
-![][10]
-![][11]
-![][12]
-![][13]
-![][15]
-![][16]
-![][17]
-![][18]
+
+- Altitude markings ![][2]
+- Lovely view ![][5]
+- ![][6]
+- Funny yellow caterpillar ![][9]
+- ![][10]
+- ![][17]
+- Why are there no bugs along the path? Oh...  ![][11]
+- ![][13]
+- Rather steep path ![][7]
+- ![][12]
+- 420 in Chinese is a homonym of "I Love You" ![][16]
+{: .gallery}
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+We got to tour a huge trash incineration plant, taking the trash from the city and turning 
+it into electricity. They filter the aerosols, turn the fly ash into paving stones, and the 
+little that is truly hazardous gets buried in a landfill at a tiny fraction of what would 
+otherwise have been wasted space. 
+- ![][8]
+- Watching the claws feed the burners
+    ![][3]
+- Model of the turbine that you can blow into and make spin
+    ![][4]
+- Stand in the claw
+    ![][1]
+- Blocks of the fly ash to play with
+    ![][15]
+- Generator 3
+    ![][18]
+{: .gallery}
 
 [1]: /pictures/Hunan/HikingAndTrashDay/PXL_20250606_064722071.webp
 [2]: /pictures/Hunan/HikingAndTrashDay/PXL_20250606_030153083.webp

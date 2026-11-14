@@ -12,4 +12,4 @@ Wabi-Sabi: The appreciation of the imperfect, impermanent, and incomplete.
 
 Fuzzy-Sabi: Someone who continually tinkers, makes, and improves things which 
 are imperfect, impermanent, or incomplete, and appreciates this
-journey of craftsmanship and learning 
+journey of craftsmanship and learning

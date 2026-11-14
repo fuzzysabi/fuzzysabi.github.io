@@ -1,8 +1,18 @@
+---
+title: Light show on Orange Island
+layout: post
+tags:
+- textiles
+- China
+category: China2025
+---
 
+Massive coordinated light show, it must have spanned buildings for 5 miles along the river
 ![][1]
 ![][2]
+A Giant Mao sculpture, it was really big ![][4]
+Gorgeous little pagoda style structure on the pond 
 ![][3]
-![][4]
 ![][6]
 
 [1]: /pictures/Hunan/MaoHead-LightShow/PXL_20250604_114752168.webp

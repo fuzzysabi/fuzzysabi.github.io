@@ -38,7 +38,7 @@ plugins:
     - jekyll-paginate
     - jekyll-sitemap
 
-paginate: 5
+paginate: 20
 show_excerpts: true
 #paginate_path: "/more/page:num"
 

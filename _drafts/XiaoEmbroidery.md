@@ -1,3 +1,13 @@
+---
+title: Xiao Embroidery
+layout: post
+tags:
+- textiles
+- China
+category: China2025
+---
+Traditional silk embroidery is a tradition of the Xiao people of Hunan
+
 
 ![][1]
 ![][2]

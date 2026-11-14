@@ -1,3 +1,10 @@
+---
+name: "Avatar Mountains"
+---
+The "Avatar Mountains", or the "Grand Canyon of China" was one of the highlights of the trip.
+James Cameron used footage of these mountains in the Avatar films because they look like they
+are floating when the fog is low.
+
 
 ![][1]
 ![][2]

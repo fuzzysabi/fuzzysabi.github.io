@@ -1,20 +1,31 @@
+---
+date: 2027-04-01
+title: Kids on Phones
+layout: post
+tags:
+- humor
+- China
+category: China2025
+---
+Every time I turned around, all the kids were on their phones
 
-![][1]
-![][2]
-![][3]
-![][4]
-![][5]
-![][6]
-![][7]
-![][8]
-![][9]
-![][10]
-![][11]
-![][12]
-![][13]
-![][14]
-![][15]
-![][17]
+- ![][1]
+- ![][2]
+- ![][3]
+- ![][4]
+- ![][5]
+- ![][6]
+- ![][7]
+- ![][8]
+- ![][9]
+- ![][10]
+- ![][11]
+- ![][12]
+- ![][13]
+- ![][14]
+- ![][15]
+- ![][17]
+{: .gallery}
 
 [1]: /pictures/Hunan/KidsOnPhones/PXL_20250604_114734453.webp
 [2]: /pictures/Hunan/KidsOnPhones/PXL_20250613_044709288.webp
