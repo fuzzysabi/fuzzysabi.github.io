@@ -7,7 +7,7 @@ permalink: /bread-calculator/
 
 # Baker's percentage calculator
 
-Includes sourdough if you've got it, this is my basic weekly long sandwich loaf 
+Includes sourdough if you've got it, the default is my weekly long sandwich loaf 
 of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?th=1), 
 12 1/2 x 5 1/2 (about 1-1/2 times longer than a normal loaf pan).
 
@@ -129,7 +129,7 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
     // Leave out "sd" for no sourdough. The first preset loads when the page opens.
     var presets = [
       {
-        name: 'My default',
+        name: 'Molasses Wheat',
         total: 1500, pieces: 1,
         flours: [{ name: 'Wheat Flour', pct: 50 }, { name: 'White flour', pct: 50 }],
         others: [
@@ -139,16 +139,27 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
           { name: 'Salt', pct: 2 }
         ],
         sd: { pct: 30, hyd: 100 }
+      },{
+        name: 'Dinner Rolls',
+        total: 50, pieces: 12,
+        flours: [{name: 'White flour',pct:100}],
+        others: [
+          {name: 'water', pct: 70, water: true},
+          {name: 'Fat', pct: 20},
+          {name: 'Sugar', pct: 12},
+          {name: 'Salt', pct: 2}
+        ],
+        sd: {pct: 20, hyd: 100}
       },
       {
-        name: 'Basic dough',
+        name: 'Plain Lean Dough',
         total: 1000, pieces: 1,
         flours: [{ name: 'Flour', pct: 100 }],
         others: [
           { name: 'Water', pct: 65, water: true },
           { name: 'Salt', pct: 2 },
-          { name: 'Fat', pct: 10 }
-        ]
+        ],
+        sd: {pct: 30,hyd: 100}
       }
     ];
     // -------------------------------------------------------------------
