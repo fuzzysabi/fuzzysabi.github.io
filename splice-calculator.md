@@ -34,6 +34,24 @@ permalink: /splice-calculator/
   #splice-out .splice-answer { font-size: 1.35rem; font-weight: 600; }
   #splice-out .splice-error { color: #c0392b; }
   @media (prefers-color-scheme: dark) { #splice-out .splice-error, .splice-row .splice-val[aria-invalid="true"] { color: #ff8a7a; border-color: #ff8a7a; } }
+    /* Phone-friendly: 16px inputs stop iOS zooming on focus */
+  .splice input[type="text"], .splice input[type="number"], .splice select, .splice button { font-size: 16px; }
+
+  @media (max-width: 520px) {
+    .splice fieldset label { padding: .45rem 0; }
+    .splice fieldset input[type="radio"] { width: 1.15rem; height: 1.15rem; margin-right: .4rem; vertical-align: -.15rem; }
+
+    /* each wire becomes two lines: size on top, unit + remove below */
+    .splice-row { flex-wrap: wrap; gap: .4rem .5rem; margin-bottom: .75rem; padding-bottom: .6rem; border-bottom: 1px solid rgba(128,128,128,.25); }
+    .splice-row .splice-val { flex: 1 1 100%; }
+    .splice-row .splice-unit { flex: 1 1 0; min-width: 0; }
+
+    .splice input[type="text"], .splice input[type="number"], .splice select, .splice button { padding: .6rem .7rem; }
+    .splice .splice-remove { padding: .6rem 1rem; }
+    .splice-count input { width: 6rem; }
+    #splice-add { width: 100%; }
+    #splice-out .splice-answer { font-size: 1.5rem; }
+  }
 </style>
 
 <div class="splice" id="splice" data-mode="same">

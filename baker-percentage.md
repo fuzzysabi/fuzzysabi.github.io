@@ -25,7 +25,8 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
     #bp-calc input:focus-visible, #bp-calc select:focus-visible, #bp-calc button:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
     #bp-calc input[type=number] { width: 5.5rem; }
     #bp-calc .bp-row { display: grid; grid-template-columns: 1fr 5rem 4.5rem 1.8rem; gap: .5rem; align-items: center; margin-bottom: .4rem; }
-    #bp-calc .bp-row input[type=number] { width: 100%; }
+    #bp-calc .bp-pct { display: flex; align-items: center; gap: .25rem; min-width: 0; }
+    #bp-calc .bp-pct input[type=number] { flex: 1 1 0; width: 0; min-width: 0; }
     #bp-calc .bp-head { font-size: .8rem; opacity: .7; margin-bottom: .25rem; }
     #bp-calc .bp-g { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
     #bp-calc .bp-g small { display: block; font-weight: 400; opacity: .65; font-size: .72rem; }
@@ -44,6 +45,28 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
     #bp-calc .bp-inline { flex-direction: row; align-items: center; gap: .5rem; font-size: 1rem; }
     #bp-calc .bp-note { font-size: .85rem; opacity: .8; margin: .3rem 0; }
     #bp-calc .bp-warn { font-size: .85rem; color: #b45309; margin: .3rem 0; }
+    /* Mobile: 16px inputs stop iOS from zooming on focus; bigger tap targets */
+    #bp-calc input[type=text], #bp-calc input[type=number], #bp-calc select { font-size: 16px; }
+    #bp-calc #bp-presets { display: flex; flex-wrap: wrap; }
+    @media (max-width: 520px) {
+      #bp-calc .bp-top { gap: .6rem; }
+      #bp-calc .bp-top label { flex: 1 1 40%; }
+      #bp-calc .bp-top input, #bp-calc .bp-top select { width: 100%; }
+      /* each ingredient becomes two lines: name on top, percent + grams below */
+      #bp-calc .bp-row { grid-template-columns: 7rem minmax(0, 1fr) 2.6rem; gap: .35rem .6rem; margin-bottom: .75rem; padding-bottom: .6rem; border-bottom: 1px solid rgba(128,128,128,.25); }
+      #bp-calc .bp-row > input[type=text] { grid-column: 1 / -1; }
+      #bp-calc .bp-row input[type=text], #bp-calc .bp-row input[type=number] { padding: .55rem .6rem; }
+      #bp-calc .bp-g { font-size: 1.15rem; }
+      #bp-calc .bp-x { font-size: 1.6rem; padding: .2rem 0; }
+      #bp-calc .bp-head { grid-template-columns: 1fr; border: 0; padding: 0; margin-bottom: .4rem; }
+      #bp-calc .bp-head span:not(:first-child) { display: none; }
+      #bp-calc .bp-sdrow > span:first-child { grid-column: 1 / -1; }
+      #bp-calc .bp-sdrow { grid-template-columns: 7rem minmax(0, 1fr) 0; }
+      #bp-calc .bp-btn { padding: .5rem .8rem; }
+      #bp-calc .bp-sdrow { margin: .2rem 0 .8rem; }
+      #bp-calc .bp-sd-fields label { flex: 1 1 40%; }
+      #bp-calc .bp-sd-fields input { width: 100%; }
+    }
     @media (prefers-color-scheme: dark) { #bp-calc .bp-warn { color: #fbbf24; } }
   </style>
 
@@ -106,27 +129,27 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
     // Leave out "sd" for no sourdough. The first preset loads when the page opens.
     var presets = [
       {
-        name: 'Molasses Wheat',
+        name: 'My default',
         total: 1500, pieces: 1,
         flours: [{ name: 'Wheat Flour', pct: 50 }, { name: 'White flour', pct: 50 }],
         others: [
           { name: 'Water', pct: 65, water: true },
           { name: 'Fat', pct: 10 },
-          { name: 'Molasses', pct: 5 },
+          { name: 'Sugar', pct: 5 },
           { name: 'Salt', pct: 2 }
         ],
         sd: { pct: 30, hyd: 100 }
       },
-//      {
-//        name: 'Basic dough',
-//        total: 1000, pieces: 1,
-//        flours: [{ name: 'Flour', pct: 100 }],
-//        others: [
-//          { name: 'Water', pct: 65, water: true },
-//          { name: 'Salt', pct: 2 },
-//          { name: 'Fat', pct: 10 }
-//        ]
-//      }
+      {
+        name: 'Basic dough',
+        total: 1000, pieces: 1,
+        flours: [{ name: 'Flour', pct: 100 }],
+        others: [
+          { name: 'Water', pct: 65, water: true },
+          { name: 'Salt', pct: 2 },
+          { name: 'Fat', pct: 10 }
+        ]
+      }
     ];
     // -------------------------------------------------------------------
     var flours = [], others = [];
@@ -164,7 +187,13 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
           x.onclick = function () { list.splice(i, 1); render(); };
         } else { x.style.visibility = 'hidden'; }
 
-        row.appendChild(name); row.appendChild(pct); row.appendChild(g); row.appendChild(x);
+        var pw = document.createElement('div');
+        pw.className = 'bp-pct';
+        var sign = document.createElement('span');
+        sign.textContent = '%';
+        pw.appendChild(pct); pw.appendChild(sign);
+
+        row.appendChild(name); row.appendChild(pw); row.appendChild(g); row.appendChild(x);
         host.appendChild(row);
       });
     }
