@@ -135,24 +135,24 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
         others: [
           { name: 'Water', pct: 65, water: true },
           { name: 'Fat', pct: 10 },
-          { name: 'Sugar', pct: 5 },
+          { name: 'Molasses', pct: 5 },
           { name: 'Salt', pct: 2 }
         ],
         sd: { pct: 30, hyd: 100 }
       },{
-        name: 'Dinner Rolls',
+        name: 'Rolls',
         total: 50, pieces: 12,
         flours: [{name: 'White flour',pct:100}],
         others: [
           {name: 'water', pct: 70, water: true},
-          {name: 'Fat', pct: 20},
+          {name: 'Shortening', pct: 20},
           {name: 'Sugar', pct: 12},
           {name: 'Salt', pct: 2}
         ],
         sd: {pct: 20, hyd: 100}
       },
       {
-        name: 'Plain Lean Dough',
+        name: 'Rustic',
         total: 1000, pieces: 1,
         flours: [{ name: 'Flour', pct: 100 }],
         others: [
@@ -160,7 +160,17 @@ of molasses sourdough. Baked in [this pan](https://www.amazon.com/dp/B0FBRDZJL5?
           { name: 'Salt', pct: 2 },
         ],
         sd: {pct: 30,hyd: 100}
+      },
+      {
+        name: 'Clear All',
+        total: 0, pieces: 1,
+        flours: [{name: 'Flour',pct:100}],
+        others: [
+          {name: 'Water', pct: 65, water: true},
+          {name: 'Salt', pct: 2}
+        ],
       }
+
     ];
     // -------------------------------------------------------------------
     var flours = [], others = [];
