@@ -23,5 +23,4 @@ category: China2025
 [5]: /pictures/Hunan/Pandas/PXL_20250608_053439656.webp
 [6]: /pictures/Hunan/Pandas/PXL_20250608_050103087.webp
 [7]: /pictures/Hunan/Pandas/PXL_20250608_051200461.webp
-[8]: /pictures/Hunan/Pandas/.empty
 [9]: /pictures/Hunan/Pandas/PXL_20250608_050728813.webp
