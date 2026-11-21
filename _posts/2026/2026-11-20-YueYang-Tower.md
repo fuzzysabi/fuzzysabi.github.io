@@ -40,12 +40,12 @@ for some skewers
 K got a sugar crafted horse which was really neat
 ![sugar crafting][3]
 
-[1]: ../../pictures/Hunan/YueYangTower/PXL_20250609_070634393.webp
-[2]: ../../pictures/Hunan/YueYangTower/PXL_20250609_070332244.webp
-[3]: ../../pictures/Hunan/YueYangTower/PXL_20250609_115250535.webp
-[4]: ../../pictures/Hunan/YueYangTower/PXL_20250609_062759023.webp
-[6]: ../../pictures/Hunan/YueYangTower/PXL_20250609_062803005.webp
-[7]: ../../pictures/Hunan/YueYangTower/PXL_20250609_071918974.webp
-[8]: ../../pictures/Hunan/YueYangTower/PXL_20250609_070329639.webp
-[10]: ../../pictures/Hunan/YueYangTower/PXL_20250609_125803900.webp
-[11]: ../../pictures/Hunan/YueYangTower/PXL_20250609_062752133.webp
+[1]: /pictures/Hunan/YueYangTower/PXL_20250609_070634393.webp
+[2]: /pictures/Hunan/YueYangTower/PXL_20250609_070332244.webp
+[3]: /pictures/Hunan/YueYangTower/PXL_20250609_115250535.webp
+[4]: /pictures/Hunan/YueYangTower/PXL_20250609_062759023.webp
+[6]: /pictures/Hunan/YueYangTower/PXL_20250609_062803005.webp
+[7]: /pictures/Hunan/YueYangTower/PXL_20250609_071918974.webp
+[8]: /pictures/Hunan/YueYangTower/PXL_20250609_070329639.webp
+[10]: /pictures/Hunan/YueYangTower/PXL_20250609_125803900.webp
+[11]: /pictures/Hunan/YueYangTower/PXL_20250609_062752133.webp
