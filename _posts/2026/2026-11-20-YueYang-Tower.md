@@ -11,8 +11,11 @@ tags:
 categories:
   - China
 --- 
-Yueyang tower is a 15th century naval base which was transformed over time into the
-destination for poets and scholars across China for it's tranquil lakeside view
+
+Yueyang tower was a naval base before the Tang dynasty, which was transformed
+over time into the destination for poets and scholars across China for it's
+tranquil view of DongTing Lake. The grounds include bronze castings of the
+various stages of remodel and construction throughout history.
 
 The view of the lake from an upper window:
 ![view from the window][1]  
